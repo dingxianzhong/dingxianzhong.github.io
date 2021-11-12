@@ -17,8 +17,13 @@ My research interests mainly lie in Applied Machine Learning/Deep Learning, Opti
 
 Publications
 ======
-1. Ding, Xianzhong, Wan Du, and Alberto E. Cerpa. "MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control." Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. 2020.
-
+1. DRLIC : Deep Reinforcement Learning for Irrigation Control,XianzhongDingand Wan Du.  2021. (Under Submission).
+2. Devanshu Kumar, Xianzhong Ding, Wan Du, and Alberto E. Cerpa. "Building Sensor Fault Detection and Diagnostic System." Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys). 2021.
+3. Xianzhong Ding, Wan Du, and Alberto E. Cerpa. "MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control." Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys). 2020.
+4. Miaomiao, Liu, Xianzhong Ding, and Wan Du. "Continuous, Real-Time Object Detection on Mobile Devices without Offloading." 2020 IEEE 40th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2020.
+5. Xianzhong Ding, Wan Du, and Alberto Cerpa. "Octopus: Deep reinforcement learning for holistic smart building control." Proceedings of the 6th ACM international conference on systems for energy-efficient buildings, cities, and transportation (BuildSys). 2019.
+6. Xianzhong Ding, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance." ACM SIGPLAN / SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES). 2017.
+7. Xianzhong Ding, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance."  Design Automation Conference (DAC). Work in Progress. 2017.
 
 Honors and Awards
 ------
