@@ -83,11 +83,11 @@ author:
   name             : "Xianzhong Ding (丁宪忠)"
   avatar           : "profile.jpeg"
   bio              : "Ph.D student, UCM"
-  location         : "Location"
+  location         : "5200 N. Lake Road, Merced, CA 95343"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lUNyhjwAAAAJ&hl=en"
-  email            :
+  email            : "xding5 AT ucmerced.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ding-xianzhong-0b5aa9126/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
