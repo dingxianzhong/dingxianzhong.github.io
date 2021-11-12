@@ -10,7 +10,7 @@ redirect_from:
 I am currently a fourth-year Ph.D. student supervised by Prof. [Wan Du](https://sites.ucmerced.edu/wdu) in the Department of Computer Science and Engineering at the [University of California, Merced (UCM)](https://www.ucmerced.edu/). Before moving to Merced in 2018, I received his master's degree from Shandong University and bachelor's degree from Taishan University.
 
 
-Research
+Research Interests
 ======
 My research interests mainly lie in Applied Machine Learning/Deep Learning, Optimization, and Edge Computing.
 
