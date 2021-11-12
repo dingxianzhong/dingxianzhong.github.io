@@ -12,7 +12,7 @@ I am currently a fourth-year Ph.D. student supervised by Prof. [Wan Du](https://
 
 Research Interests
 ======
-My research interests mainly lie in Applied Machine Learning/Deep Learning, Optimization, and Edge Computing.
+My research interests mainly lie in Applied Machine Learning/Deep Learning, Deep Reinforcement Learning, Optimization, and Edge Computing.
 
 
 Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyhjwAAAAJ&hl=en))
