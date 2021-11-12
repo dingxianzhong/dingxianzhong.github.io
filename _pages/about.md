@@ -27,6 +27,16 @@ Publications
 
 Honors and Awards
 ------
+1. Bobcat Summer Fellowship, EECS, UC Merced, 2021.
+2. Best Paper Runner-Up Award at BuildSys 2020, 2020. 
+3. Best Presentation Award at BuildSys 2020, 2020. 
+4. Bobcat Summer Fellowship, EECS, UC Merced, 2020.
+5. ACM SenSys 2019 NSF student travel grant, 2019. 
+6. Bobcat Summer Fellowship, EECS, UC Merced, 2019.
+7. First level scholarship of Shandong University, 2017 - 2018.
+8. Third level scholarship for comprehensive performance, Shandong University, 2016 - 2017.
+9. Scholarship for outstanding academic performance, Shandong University, 2015 - 2016. 
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
