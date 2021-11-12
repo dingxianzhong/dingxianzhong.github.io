@@ -17,7 +17,7 @@ My research interests mainly lie in Applied Machine Learning/Deep Learning, Deep
 
 Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyhjwAAAAJ&hl=en))
 ======
-* **Xianzhong Ding** and Wan.DRLIC : Deep Reinforcement Learning for Irrigation Control. (Under Submission 2021).
+* **Xianzhong Ding** and Wan. DRLIC : "Deep Reinforcement Learning for Irrigation Control". (Under Submission 2021).
 * Devanshu Kumar, **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Building Sensor Fault Detection and Diagnostic System." Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2021](https://buildsys.acm.org/2021/)). 
 * **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control." Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2020](https://buildsys.acm.org/2020/)). [Best Paper Runner-Up Award](https://buildsys.acm.org/2020/) and [Best Presentation Award](https://buildsys.acm.org/2020/).
 * Miaomiao, Liu, **Xianzhong Ding**, and Wan Du. "Continuous, Real-Time Object Detection on Mobile Devices without Offloading." IEEE 40th International Conference on Distributed Computing Systems ([ICDCS 2020](https://www.computer.org/csdl/proceedings/icdcs/2020/1rsiFStC836)).
