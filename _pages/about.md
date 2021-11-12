@@ -18,12 +18,12 @@ My research interests mainly lie in Applied Machine Learning/Deep Learning, Opti
 Publications
 ======
 * **Xianzhong Ding** and Wan.DRLIC : Deep Reinforcement Learning for Irrigation Control. (Under Submission 2021).
-* Devanshu Kumar, **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Building Sensor Fault Detection and Diagnostic System." Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2021). 
-* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control." Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2020). 
+* Devanshu Kumar, **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Building Sensor Fault Detection and Diagnostic System." Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2021](https://buildsys.acm.org/2021/)). 
+* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control." Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2020](https://buildsys.acm.org/2020/)). 
 * Miaomiao, Liu, **Xianzhong Ding**, and Wan Du. "Continuous, Real-Time Object Detection on Mobile Devices without Offloading." IEEE 40th International Conference on Distributed Computing Systems (ICDCS 2020).
-* **Xianzhong Ding**, Wan Du, and Alberto Cerpa. "Octopus: Deep reinforcement learning for holistic smart building control." Proceedings of the 6th ACM international conference on systems for energy-efficient buildings, cities, and transportation (BuildSys 2019).
-* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance." ACM SIGPLAN / SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2017).
-* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance." Work in Progress. Design Automation Conference (DAC 2017).
+* **Xianzhong Ding**, Wan Du, and Alberto Cerpa. "Octopus: Deep reinforcement learning for holistic smart building control." Proceedings of the 6th ACM international conference on systems for energy-efficient buildings, cities, and transportation ([BuildSys 2019](https://buildsys.acm.org/2019/)).
+* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance." ACM SIGPLAN / SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems ([LCTES 2017](https://conf.researchr.org/track/LCTES-2017/LCTES-2017-papers)).
+* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance." Work in Progress. Design Automation Conference ([DAC 2017](https://www.dac.com/About/Conference-Archive/54th-DAC-2017)).
 
 Honors and Awards
 ------
