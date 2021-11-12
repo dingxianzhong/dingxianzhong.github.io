@@ -15,7 +15,7 @@ Research
 My research interests mainly lie in Applied Machine Learning/Deep Learning, Optimization, and Edge Computing.
 
 
-Publications
+Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyhjwAAAAJ&hl=en))
 ======
 * **Xianzhong Ding** and Wan.DRLIC : Deep Reinforcement Learning for Irrigation Control. (Under Submission 2021).
 * Devanshu Kumar, **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Building Sensor Fault Detection and Diagnostic System." Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2021](https://buildsys.acm.org/2021/)). 
