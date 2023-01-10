@@ -39,6 +39,19 @@ Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyh
 * Hang Yu, Zhiping Jia, Lei Ju, Chunguang Liu, **Xianzhong Ding**. [Energy efficient routing algorithm using software defining network for wsns via unequal clustering](https://link.springer.com/chapter/10.1007/978-981-10-3969-0_18) International Conference on Geo-Informatics in Resource Management and Sustainable Ecosystem (GRMSE), 2016.
 
 
+
+Work Experience
+======
+
+* Research Intern, ByteDance Infrastructure System Lab, Mountain View, United States
+May - Nov 2022
+Supervisor: Dr. Tieying Zhang
+
+* Research Assistant, EECS, UC Merced,
+August 2018 - present
+Supervisor: Prof. Wan Du and Alberto Cerpa
+
+
 Honors and Awards
 ------
 * Bobcat Summer Fellowship, EECS, UC Merced, 2021.
