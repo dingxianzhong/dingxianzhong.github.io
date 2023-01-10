@@ -42,20 +42,13 @@ Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyh
 
 Work Experience
 ======
-
 * Research Intern, ByteDance Infrastructure System Lab, Mountain View, United States
-
-May - Nov 2022
-
-Supervisor: Tieying Zhang
-
+  * May - Nov 2022
+  * Supervisor: Tieying Zhang
 * Research Assistant, EECS, UC Merced, United States
-
-August 2018 - present
-
-Supervisor: Prof. Wan Du and Alberto Cerpa
-
-
+  * August 2018 - present
+  * Supervisor: Prof. Wan Du and Alberto Cerpa
+  
 Honors and Awards
 ------
 * Bobcat Summer Fellowship, EECS, UC Merced, 2021.
