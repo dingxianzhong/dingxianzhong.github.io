@@ -50,7 +50,7 @@ Work Experience
   * Supervisor: Prof. Wan Du and Alberto Cerpa
   
 Honors and Awards
-------
+======
 * Bobcat Summer Fellowship, EECS, UC Merced, 2021.
 * Best Paper Runner-Up Award at BuildSys 2020, 2020. 
 * Best Presentation Award at BuildSys 2020, 2020. 
