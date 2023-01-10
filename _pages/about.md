@@ -17,17 +17,27 @@ My research interests mainly lie in Applied Machine Learning/Deep Learning, Deep
 Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyhjwAAAAJ&hl=en))
 ======
 <!-- * **Xianzhong Ding** and Wan. DRLIC : "Deep Reinforcement Learning for Irrigation Control". (Under Submission 2021). -->
-* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Deep Reinforcement Learning for Irrigation Control." The International Conference on Information Processing in Sensor Networks, 2022 (IPSN 2022). ([Paper Link](https://ipsn2022.signalprocessingsociety.org/)).
 
-* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Deep Reinforcement Learning for Irrigation Control." The International Conference on Information Processing in Sensor Networks, 2022 (IPSN 2022). ([Paper Link](https://ieeexplore.ieee.org/document/9826083)).
+* Hamid Rajabi, Zhizhang Hu, **Xianzhong Ding**, Shijia Pan, Wan Du, Alberto Cerpa. [MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings](https://dl.acm.org/doi/abs/10.1145/3538637.3538852) The Thirteenth ACM International Conference on Future Energy Systems (ACM e-Energy), 2022. 
+
+* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. [DRLIC: Deep Reinforcement Learning for Irrigation Control](https://ieeexplore.ieee.org/document/9826018) The International Conference on Information Processing in Sensor Networks (IPSN), 2022. 
+
+* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. [Smart Irrigation Control Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9826083) The International Conference on Information Processing in Sensor Networks (IPSN), 2022.
 
 
-* Devanshu Kumar, **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Building Sensor Fault Detection and Diagnostic System." Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2021](https://buildsys.acm.org/2021/)). 
-* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control." Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2020](https://buildsys.acm.org/2020/)). [Best Paper Runner-Up Award](https://buildsys.acm.org/2020/) and [Best Presentation Award](https://buildsys.acm.org/2020/).
-* Miaomiao, Liu, **Xianzhong Ding**, and Wan Du. "Continuous, Real-Time Object Detection on Mobile Devices without Offloading." IEEE 40th International Conference on Distributed Computing Systems ([ICDCS 2020](https://www.computer.org/csdl/proceedings/icdcs/2020/1rsiFStC836)).
-* **Xianzhong Ding**, Wan Du, and Alberto Cerpa. "Octopus: Deep reinforcement learning for holistic smart building control." Proceedings of the 6th ACM international conference on systems for energy-efficient buildings, cities, and transportation ([BuildSys 2019](https://buildsys.acm.org/2019/)).
-* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance." ACM SIGPLAN / SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems ([LCTES 2017](https://conf.researchr.org/track/LCTES-2017/LCTES-2017-papers)).
-* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. "Unified nvTCAM and sTCAM architecture for improving packet matching performance." Work in Progress. Design Automation Conference ([DAC 2017](https://www.dac.com/About/Conference-Archive/54th-DAC-2017)).
+* Devanshu Kumar, **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. [Building Sensor Fault Detection and Diagnostic System](https://dl.acm.org/doi/abs/10.1145/3486611.3491122) Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2021.
+
+* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. [MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control](https://dl.acm.org/doi/10.1145/3408308.3427986) Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2020. [Best Paper Runner-Up Award](https://buildsys.acm.org/2020/) and [Best Presentation Award](https://buildsys.acm.org/2020/).
+* Miaomiao, Liu, **Xianzhong Ding**, and Wan Du. [Continuous, Real-Time Object Detection on Mobile Devices without Offloading](https://ieeexplore.ieee.org/document/9355581) IEEE 40th International Conference on Distributed Computing Systems (ICDCS), 2020.
+
+* **Xianzhong Ding**, Wan Du, and Alberto Cerpa. [Octopus: Deep reinforcement learning for holistic smart building control](https://dl.acm.org/doi/10.1145/3360322.3360857) Proceedings of the 6th ACM international conference on systems for energy-efficient buildings, cities, and transportation (BuildSys), 2019.
+
+* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. [Unified nvTCAM and sTCAM architecture for improving packet matching performance](https://dl.acm.org/doi/abs/10.1145/3140582.3081034) ACM SIGPLAN / SIGBED Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), 2017.
+
+* **Xianzhong Ding**, Zhiyong Zhang, Zhiping Jia, Lei Ju, Mengying Zhao, and Huawei Huang. [Unified nvTCAM and sTCAM architecture for improving packet matching performance](http://www2.dac.com/events/eventdetails.aspx?id=223-120) Work in Progress. Design Automation Conference (DAC), 2017.
+
+* Hang Yu, Zhiping Jia, Lei Ju, Chunguang Liu, **Xianzhong Ding**. [Energy efficient routing algorithm using software defining network for wsns via unequal clustering](https://link.springer.com/chapter/10.1007/978-981-10-3969-0_18) International Conference on Geo-Informatics in Resource Management and Sustainable Ecosystem (GRMSE), 2016.
+
 
 Honors and Awards
 ------
