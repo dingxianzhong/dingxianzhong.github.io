@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a fourth-year Ph.D. student supervised by Prof. [Wan Du](https://sites.ucmerced.edu/wdu) and Prof. [Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/) in the Department of Computer Science and Engineering at the [University of California, Merced (UCM)](https://www.ucmerced.edu/). Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University.
+I am currently a fifth-year Ph.D. candidate supervised by Prof. [Wan Du](https://sites.ucmerced.edu/wdu) and Prof. [Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/) in the Department of Computer Science and Engineering at the [University of California, Merced (UCM)](https://www.ucmerced.edu/). Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University.
 
 
 Research Interests
@@ -16,7 +16,12 @@ My research interests mainly lie in Applied Machine Learning/Deep Learning, Deep
 
 Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyhjwAAAAJ&hl=en))
 ======
-* **Xianzhong Ding** and Wan. DRLIC : "Deep Reinforcement Learning for Irrigation Control". (Under Submission 2021).
+<!-- * **Xianzhong Ding** and Wan. DRLIC : "Deep Reinforcement Learning for Irrigation Control". (Under Submission 2021). -->
+* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Deep Reinforcement Learning for Irrigation Control." The International Conference on Information Processing in Sensor Networks, 2022 (IPSN 2022). ([Paper Link](https://ipsn2022.signalprocessingsociety.org/)).
+
+* **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Deep Reinforcement Learning for Irrigation Control." The International Conference on Information Processing in Sensor Networks, 2022 (IPSN 2022). ([Paper Link](https://ieeexplore.ieee.org/document/9826083)).
+
+
 * Devanshu Kumar, **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "Building Sensor Fault Detection and Diagnostic System." Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2021](https://buildsys.acm.org/2021/)). 
 * **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. "MB2C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control." Proceedings of the 7th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation ([BuildSys 2020](https://buildsys.acm.org/2020/)). [Best Paper Runner-Up Award](https://buildsys.acm.org/2020/) and [Best Presentation Award](https://buildsys.acm.org/2020/).
 * Miaomiao, Liu, **Xianzhong Ding**, and Wan Du. "Continuous, Real-Time Object Detection on Mobile Devices without Offloading." IEEE 40th International Conference on Distributed Computing Systems ([ICDCS 2020](https://www.computer.org/csdl/proceedings/icdcs/2020/1rsiFStC836)).
