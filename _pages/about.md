@@ -12,9 +12,7 @@ I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 Selected Publications
 ======
 
-* Hamid Rajabi, Zhizhang Hu, **Xianzhong Ding**, Shijia Pan, Wan Du, Alberto Cerpa. [MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings](https://dl.acm.org/doi/abs/10.1145/3538637.3538852) The Thirteenth ACM International Conference on Future Energy Systems (ACM e-Energy), 2022. 
-
-*[**ACM e-Energy**] [MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings](https://dl.acm.org/doi/abs/10.1145/3538637.3538852). Hamid Rajabi, Zhizhang Hu, <u>Xianzhong Ding</u>, Shijia Pan, Wan Du, Alberto Cerpa. The Thirteenth ACM International Conference on Future Energy Systems. Online, June 2022. 
+* [**ACM e-Energy**] [MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings](https://dl.acm.org/doi/abs/10.1145/3538637.3538852). Hamid Rajabi, Zhizhang Hu, <u>Xianzhong Ding</u>, Shijia Pan, Wan Du, Alberto Cerpa. The Thirteenth ACM International Conference on Future Energy Systems. Online, June 2022. 
 
 * **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. [DRLIC: Deep Reinforcement Learning for Irrigation Control](https://ieeexplore.ieee.org/document/9826018) The International Conference on Information Processing in Sensor Networks (IPSN), 2022. 
 
