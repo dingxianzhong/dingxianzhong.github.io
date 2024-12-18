@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory(LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the supervision Prof. [Wan Du](https://sites.ucmerced.edu/wdu) and Prof. [Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University. My research interests mainly lie in ML for System, Deep Reinforcement Learning (DRL), Large Language Models (LLM) and Resource Optimization.
+I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the supervision Prof. [Wan Du](https://sites.ucmerced.edu/wdu) and Prof. [Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University. My research interests mainly lie in ML for System, Deep Reinforcement Learning (DRL), Large Language Models (LLM) and Resource Optimization.
 
-Publications
+Selected Publications
 ======
-<!-- * **Xianzhong Ding** and Wan. DRLIC : "Deep Reinforcement Learning for Irrigation Control". (Under Submission 2021). -->
 
 * Hamid Rajabi, Zhizhang Hu, **Xianzhong Ding**, Shijia Pan, Wan Du, Alberto Cerpa. [MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings](https://dl.acm.org/doi/abs/10.1145/3538637.3538852) The Thirteenth ACM International Conference on Future Energy Systems (ACM e-Energy), 2022. 
+
+[**ACM e-Energy**] [MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings](https://dl.acm.org/doi/abs/10.1145/3538637.3538852). Hamid Rajabi, Zhizhang Hu, _Xianzhong Ding_, Shijia Pan, Wan Du, Alberto Cerpa. The Thirteenth ACM International Conference on Future Energy Systems. Online, June 2022. 
 
 * **Xianzhong Ding**, Wan Du, and Alberto E. Cerpa. [DRLIC: Deep Reinforcement Learning for Irrigation Control](https://ieeexplore.ieee.org/document/9826018) The International Conference on Information Processing in Sensor Networks (IPSN), 2022. 
 
