@@ -7,14 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoc Researcher at LBNL. I am currently a fifth-year Ph.D. candidate supervised by Prof. [Wan Du](https://sites.ucmerced.edu/wdu) and Prof. [Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/) in the Department of Computer Science and Engineering at the [University of California, Merced (UCM)](https://www.ucmerced.edu/). Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University.
+I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory(LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the supervision Prof. [Wan Du](https://sites.ucmerced.edu/wdu) and Prof. [Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University. My research interests mainly lie in ML for System, Deep Reinforcement Learning (DRL), Large Language Models (LLM) and Resource Optimization.
 
-
-Research Interests
-======
-My research interests mainly lie in Applied Machine Learning/Deep Learning, Deep Reinforcement Learning (DRL), Edge Computing, Wireless Networking and Internet of Things.
-
-Publications ([Google Scholar](https://scholar.google.co.in/citations?user=lUNyhjwAAAAJ&hl=en))
+Publications
 ======
 <!-- * **Xianzhong Ding** and Wan. DRLIC : "Deep Reinforcement Learning for Irrigation Control". (Under Submission 2021). -->
 
