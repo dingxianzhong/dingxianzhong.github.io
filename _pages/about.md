@@ -11,7 +11,7 @@ I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 For more information, please click here for the [Curriculum Vitae](http://dingxianzhong.github.io/files/CV_Xianzhong.pdf)
 
-### Research Interests
+<span style='color:darkred'>### Research Interests</span>
 - ML for System
 - Deep Reinforcement Learning (DRL)
 - Large Language Models (LLM)
