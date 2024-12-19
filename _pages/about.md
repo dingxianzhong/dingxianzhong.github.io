@@ -11,11 +11,21 @@ I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 For more information, please click here for the [Curriculum Vitae](http://dingxianzhong.github.io/files/CV_Xianzhong.pdf)
 
-<span style='color:darkred'>### Research Interests</span>
-- ML for System
-- Deep Reinforcement Learning (DRL)
-- Large Language Models (LLM)
-- Resource Optimization
+<span style='color:darkred'>**Research Interests**</span>
+<div style='display: flex; justify-content: space-between;'>
+  <div>
+    <ul>
+      <li>ML for System</li>
+      <li>Deep Reinforcement Learning (DRL)</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>Large Language Models (LLM)</li>
+      <li>Resource Optimization</li>
+    </ul>
+  </div>
+</div>
 
 ### Selected Publications
 * [**HICSS'25**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>**Best Paper Nominations**</span>
