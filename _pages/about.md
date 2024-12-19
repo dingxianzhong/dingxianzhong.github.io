@@ -69,8 +69,8 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 * Third level scholarship for comprehensive performance, Shandong University, 2016 - 2017.
 * Scholarship for outstanding academic performance, Shandong University, 2015 - 2016. 
 
-<span style='color:darkred; font-size:14px;'>**Honors and Awards**</span>
-<ul style='font-size:14px;'>
+<span style='color:darkred'>**Honors and Awards**</span>
+<ul style='font-size:16px;'>
   <li>Best Paper Nomination, HICSS-58, 2025.</li>
   <li>Top Reviewer at NeurIPS, 2024.</li>
   <li>Best Paper Runner-up Award, ACM BuildSys, 2023</li>
