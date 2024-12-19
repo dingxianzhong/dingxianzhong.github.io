@@ -11,7 +11,7 @@ I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 ### Selected Publications
 
-* [**HICSS**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>**Best Paper Nominations**/span>
+* [**HICSS**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>Best Paper Nominations /span>
 * [**TOSN**] [Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field](https://dl.acm.org/doi/full/10.1145/3662182). ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024.
 * [**TASE**] [Multi-zone HVAC Control with Model-based Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10557792).  IEEE Transactions on Automation Science and Engineering. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. June 2024.
 * [**DAC**] [Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control](https://dl.acm.org/doi/10.1145/3649329.3656234). The 61st ACM/IEEE Design Automation Conference. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. February 2024.
