@@ -69,6 +69,21 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 * Third level scholarship for comprehensive performance, Shandong University, 2016 - 2017.
 * Scholarship for outstanding academic performance, Shandong University, 2015 - 2016. 
 
+<span style='color:darkred; font-size:14px;'>**Honors and Awards**</span>
+<ul style='font-size:14px;'>
+  <li>Best Paper Nomination, HICSS-58, 2025.</li>
+  <li>Top Reviewer at NeurIPS, 2024.</li>
+  <li>Best Paper Runner-up Award, ACM BuildSys, 2023</li>
+  <li>Bobcat Summer Fellowship, EECS, UC Merced, 2021.</li>
+  <li>Best Paper Runner-Up Award at BuildSys, 2020.</li>
+  <li>Best Presentation Award, ACM BuildSys, 2020.</li>
+  <li>Bobcat Summer Fellowship, EECS, UC Merced, 2020.</li>
+  <li>ACM SenSys 2019 NSF student travel grant, 2019.</li>
+  <li>Bobcat Summer Fellowship, EECS, UC Merced, 2019.</li>
+  <li>First level scholarship of Shandong University, 2017 - 2018.</li>
+  <li>Third level scholarship for comprehensive performance, Shandong University, 2016 - 2017.</li>
+  <li>Scholarship for outstanding academic performance, Shandong University, 2015 - 2016.</li>
+</ul>
 
 
 
