@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style='color:darkred'>**About me**</span>"
+title: "<span style='color:darkred'>**Xianzhong Ding**</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,23 +11,11 @@ I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 For more information, please click here for the [Curriculum Vitae](http://dingxianzhong.github.io/files/CV_Xianzhong.pdf)
 
-<span style='color:darkred; margin-bottom: 0;'>### Research Interests</span>
-
-<div style='display: flex; justify-content: space-between; margin-top: 0;'>
-  <div>
-    <ul style='margin-top: 0;'>
-      <li>ML for System</li>
-      <li>Deep Reinforcement Learning (DRL)</li>
-    </ul>
-  </div>
-  <div>
-    <ul style='margin-top: 0;'>
-      <li>Large Language Models (LLM)</li>
-      <li>Resource Optimization</li>
-    </ul>
-  </div>
-</div>
-
+<span style='color:darkred'>**Research Interests**</span>
+- ML for System
+- Deep Reinforcement Learning (DRL)
+- Large Language Models (LLM)
+- Resource Optimization
 
 <span style='color:darkred'>**Selected Publications**</span>
 * [**HICSS'25**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>**Best Paper Nominations**</span>
