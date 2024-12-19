@@ -41,15 +41,26 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 
 
 <span style='color:darkred'>**Work Experience**</span>
-* Research Intern, ByteDance Infrastructure System Lab, Mountain View, United States
-  * May - Nov 2022
-  * Supervisor: Tieying Zhang
-* Research Assistant, Electrical Engineering and Computer Science, UC Merced
-  * August 2018 - present
-  * Supervisor: Prof. Wan Du and Alberto Cerpa
-* Research Assistant, Computer Science, Shandong Uinversity, China
-  * August 2015 - May 2018
-  * Supervisor: Prof. Zhiping Jia
+<ul style='font-size:16px;'>
+  <li>Research Intern, ByteDance Infrastructure System Lab, Mountain View, United States
+    <ul>
+      <li>May - Nov 2022</li>
+      <li>Supervisor: Tieying Zhang</li>
+    </ul>
+  </li>
+  <li>Research Assistant, Electrical Engineering and Computer Science, UC Merced
+    <ul>
+      <li>August 2018 - present</li>
+      <li>Supervisor: Prof. Wan Du and Alberto Cerpa</li>
+    </ul>
+  </li>
+  <li>Research Assistant, Computer Science, Shandong University, China
+    <ul>
+      <li>August 2015 - May 2018</li>
+      <li>Supervisor: Prof. Zhiping Jia</li>
+    </ul>
+  </li>
+</ul>
 
 <span style='color:darkred'>**Professional Activities**</span>
 <ul style='font-size:16px;'>
