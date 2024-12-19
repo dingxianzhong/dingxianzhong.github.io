@@ -40,26 +40,25 @@ redirect_from:
 * [**BuildSys'19**] OCTOPUS: Deep Reinforcement Learning for Holistic Smart Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2019. [Paper](https://dl.acm.org/doi/abs/10.1145/3360322.3360857)
 * [**LCTES'17**] Unified nvTCAM and sTCAM Architecture for Improving Packet Matching Performance. 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems <u>Xianzhong Ding</u>, Zhiyong Zhang, Zhiping Jia et al. 2017. [Paper](https://dl.acm.org/doi/10.1145/3140582.3081034)
 
-
-<span style='color:darkred'>**Work Experience**</span>
-<ul style='font-size:16px;'>
-  <li>Research Intern, ByteDance Infrastructure System Lab, Mountain View, United States
-    <ul>
-      <li>May - Nov 2022</li>
-      <li>Supervisor: Tieying Zhang</li>
-    </ul>
+<ul style="font-size:16px;">
+  <li>
+    [**HICSS'25**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style="color:red;">**Best Paper Nominations**</span>
   </li>
-  <li>Research Assistant, Electrical Engineering and Computer Science, UC Merced
-    <ul>
-      <li>August 2018 - present</li>
-      <li>Supervisor: Prof. Wan Du and Alberto Cerpa</li>
-    </ul>
+  <li>
+    [**TOSN'24**] Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024. 
+    <a href="https://dl.acm.org/doi/full/10.1145/3662182">Paper</a>
   </li>
-  <li>Research Assistant, Computer Science, Shandong University, China
-    <ul>
-      <li>August 2015 - May 2018</li>
-      <li>Supervisor: Prof. Zhiping Jia</li>
-    </ul>
+  <li>
+    [**TASE'24**] Multi-zone HVAC Control with Model-based Deep Reinforcement Learning. IEEE Transactions on Automation Science and Engineering. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. June 2024. 
+    <a href="https://ieeexplore.ieee.org/abstract/document/10557792">Paper</a>
+  </li>
+  <li>
+    [**DAC'24**] Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control. The 61st ACM/IEEE Design Automation Conference. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. February 2024. 
+    <a href="https://dl.acm.org/doi/10.1145/3649329.3656234">Paper</a> · 
+    <a href="https://github.com/ryeii/Veri_HVAC">Code</a> · 
+    <a href="https://ryeii.github.io/assets/DAC_2024_Zhiyu_An_Go_Beyond.pptx.pdf">Slides</a> · 
+    <a href="https://www.youtube.com/watch?v=DRORyPoWe5M">Video</a> · 
+    <a href="https://ryeii.github.io/assets/DAC%202024%20Go%20Beyond%20Poster.pdf">Poster</a>
   </li>
 </ul>
 
