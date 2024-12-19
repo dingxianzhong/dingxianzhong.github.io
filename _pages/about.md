@@ -12,15 +12,15 @@ I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 For more information, please click here for the [Curriculum Vitae](http://dingxianzhong.github.io/files/CV_Xianzhong.pdf)
 
 <span style='color:darkred'>**Research Interests**</span>
-<div style='display: flex; justify-content: space-between;'>
+<div style='display: flex; justify-content: space-between; margin-top: 0;'>
   <div>
-    <ul>
+    <ul style='margin-top: 0; padding-top: 0;'>
       <li>ML for System</li>
       <li>Deep Reinforcement Learning (DRL)</li>
     </ul>
   </div>
   <div>
-    <ul>
+    <ul style='margin-top: 0; padding-top: 0;'>
       <li>Large Language Models (LLM)</li>
       <li>Resource Optimization</li>
     </ul>
