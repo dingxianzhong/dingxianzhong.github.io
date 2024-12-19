@@ -43,18 +43,18 @@ redirect_from:
 
 <ul style="font-size:16px;">
   <li>
-    <strong>HICSS'25</strong>: Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style="color:red;"><strong>Best Paper Nominations</strong></span>
+    <strong>[HICSS'25]</strong>: Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style="color:red;"><strong>Best Paper Nominations</strong></span>
   </li>
   <li>
-    <strong>TOSN'24</strong>: Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024. 
+    <strong>[TOSN'24]</strong>: Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024. 
     <a href="https://dl.acm.org/doi/full/10.1145/3662182">Paper</a>
   </li>
   <li>
-    <strong>TASE'24</strong>: Multi-zone HVAC Control with Model-based Deep Reinforcement Learning. IEEE Transactions on Automation Science and Engineering. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. June 2024. 
+    <strong>[TASE'24]</strong>: Multi-zone HVAC Control with Model-based Deep Reinforcement Learning. IEEE Transactions on Automation Science and Engineering. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. June 2024. 
     <a href="https://ieeexplore.ieee.org/abstract/document/10557792">Paper</a>
   </li>
   <li>
-    <strong>DAC'24</strong>: Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control. The 61st ACM/IEEE Design Automation Conference. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. February 2024. 
+    <strong>[DAC'24]</strong>: Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control. The 61st ACM/IEEE Design Automation Conference. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. February 2024. 
     <a href="https://dl.acm.org/doi/10.1145/3649329.3656234">Paper</a> · 
     <a href="https://github.com/ryeii/Veri_HVAC">Code</a> · 
     <a href="https://ryeii.github.io/assets/DAC_2024_Zhiyu_An_Go_Beyond.pptx.pdf">Slides</a> · 
@@ -62,58 +62,58 @@ redirect_from:
     <a href="https://ryeii.github.io/assets/DAC%202024%20Go%20Beyond%20Poster.pdf">Poster</a>
   </li>
   <li>
-    <strong>ICLR'24</strong>: Reward Bound for Behavioral Guarantee of Model-Based Planning Agents. Tiny Paper Track, International Conference on Learning Representations (ICLR) 2024. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. 2024. 
+    <strong>[ICLR'24]</strong>: Reward Bound for Behavioral Guarantee of Model-Based Planning Agents. Tiny Paper Track, International Conference on Learning Representations (ICLR) 2024. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. 2024. 
     <a href="https://arxiv.org/abs/2402.13419">Paper</a> · 
     <a href="https://openreview.net/forum?id=n3ip7H2ioh">OpenReview</a>
   </li>
   <li>
-    <strong>TOSN'24</strong>: Exploring Deep Reinforcement Learning for Holistic Smart Building Control. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. 2024. 
+    <strong>[TOSN'24]</strong>: Exploring Deep Reinforcement Learning for Holistic Smart Building Control. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. 2024. 
     <a href="https://dl.acm.org/doi/10.1145/3656043">Paper</a>
   </li>
   <li>
-    <strong>MLSys'23</strong>: Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. Workshop on ML for Systems at NeurIPS. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. New Orleans, December 2023. 
+    <strong>[MLSys'23</strong>: Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. Workshop on ML for Systems at NeurIPS. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. New Orleans, December 2023. 
     <a href="https://mlforsystems.org/assets/papers/neurips2023/paper37.pdf">Paper</a> · 
     <a href="https://openreview.net/forum?id=TMvtla5bOP">OpenReview</a> · 
     <a href="https://neurips.cc/virtual/2023/84261">Video</a> · 
     <a href="https://github.com/bytedance/DRL-based-VM-Rescheduling">Code</a> · <span style="color:red;"><strong>Oral</strong></span>
   </li>
   <li>
-    <strong>SC-W'23</strong>: HPC-GPT: Integrating Large Language Model for High-Performance Computing. Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis. <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du. 2023. 
+    <strong>[SC-W'23]</strong>: HPC-GPT: Integrating Large Language Model for High-Performance Computing. Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis. <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du. 2023. 
     <a href="https://dl.acm.org/doi/abs/10.1145/3624062.3624172">Paper</a> · 
     <a href="https://github.com/dingxianzhong/HPC-GPT">Code</a> · 
     <a href="https://huggingface.co/datasets/HPC-GPT/HPC">Dataset</a>
   </li>
   <li>
-    <strong>BuildSys'23</strong>: CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. Zhiyu An, <u>Xianzhong Ding</u>, Arya Rathee, Wan Du. 2023. 
+    <strong>[BuildSys'23]</strong>: CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. Zhiyu An, <u>Xianzhong Ding</u>, Arya Rathee, Wan Du. 2023. 
     <a href="https://dl.acm.org/doi/10.1145/3600100.3623742">Paper</a> · 
     <a href="https://github.com/ryeii/CLUE">Code</a> · 
     <a href="https://ryeii.github.io/assets/clue_shorter_slides.pdf">Slides (8 mins)</a> · 
     <a href="https://ryeii.github.io/assets/clue_slides.pdf">Slides (30 mins)</a> · <span style="color:red;"><strong>Best Paper Runner-Up Award</strong></span>
   </li>
   <li>
-    <strong>e-Energy'23</strong>: MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings. ACM International Conference on Future Energy Systems. Hamid Rajabi, Zhizhang Hu, <u>Xianzhong Ding</u>, Shijia Pan, Wan Du, Alberto Cerpa. 2022. 
+    <strong>[e-Energy'23]</strong>: MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings. ACM International Conference on Future Energy Systems. Hamid Rajabi, Zhizhang Hu, <u>Xianzhong Ding</u>, Shijia Pan, Wan Du, Alberto Cerpa. 2022. 
     <a href="https://dl.acm.org/doi/abs/10.1145/3538637.3538852">Paper</a>
   </li>
   <li>
-    <strong>IPSN'22</strong>: DRLIC: Deep Reinforcement Learning for Irrigation Control. The International Conference on Information Processing in Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. 2022. 
+    <strong>[IPSN'22]</strong>: DRLIC: Deep Reinforcement Learning for Irrigation Control. The International Conference on Information Processing in Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. 2022. 
     <a href="https://ieeexplore.ieee.org/document/9826018">Paper</a>
   </li>
   <li>
-    <strong>BuildSys'20</strong>: MB<sup>2</sup>C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2020.  
+    <strong>[BuildSys'20]</strong>: MB<sup>2</sup>C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2020.  
     <a href="https://dl.acm.org/doi/abs/10.1145/3408308.3427986">Paper</a> · 
     <a href="https://www.youtube.com/watch?v=86UcsgKXFek&list=PL6jLuiS6wP5Z1xNoxqL4iSPJ3BNLhyDwt&index=3">Video</a> · <span style="color:red;"><strong>Best Paper Runner-Up Award</strong></span> · <span style="color:red;"><strong>Best Presentation Award</strong></span>
   </li>
   <li>
-    <strong>ICDCS'20</strong>: Continuous, Real-Time Object Detection on Mobile Devices without Offloading. IEEE 40th International Conference on Distributed Computing Systems. Miaomiao Liu, <u>Xianzhong Ding</u>, Wan Du. 2020.  
+    <strong>[ICDCS'20]</strong>: Continuous, Real-Time Object Detection on Mobile Devices without Offloading. IEEE 40th International Conference on Distributed Computing Systems. Miaomiao Liu, <u>Xianzhong Ding</u>, Wan Du. 2020.  
     <a href="https://ieeexplore.ieee.org/document/9355581">Paper</a> · 
     <a href="https://www.youtube.com/watch?v=7_kCXFLwUg4">Video</a>
   </li>
   <li>
-    <strong>BuildSys'19</strong>: OCTOPUS: Deep Reinforcement Learning for Holistic Smart Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2019. 
+    <strong>[BuildSys'19]</strong>: OCTOPUS: Deep Reinforcement Learning for Holistic Smart Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2019. 
     <a href="https://dl.acm.org/doi/abs/10.1145/3360322.3360857">Paper</a>
   </li>
   <li>
-    <strong>LCTES'17</strong>: Unified nvTCAM and sTCAM Architecture for Improving Packet Matching Performance. 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems <u>Xianzhong Ding</u>, Zhiyong Zhang, Zhiping Jia et al. 2017. 
+    <strong>[LCTES'17]</strong>: Unified nvTCAM and sTCAM Architecture for Improving Packet Matching Performance. 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems <u>Xianzhong Ding</u>, Zhiyong Zhang, Zhiping Jia et al. 2017. 
     <a href="https://dl.acm.org/doi/10.1145/3140582.3081034">Paper</a>
   </li>
 </ul>
