@@ -103,7 +103,7 @@ redirect_from:
 
 <span style='color:darkred'>**Professional Activities**</span>
 <ul style='font-size:16px;'>
-  <li><strong>PC Members</strong>: ATC'25, ATC'24.</li>
+  <li><strong>Program Committee</strong>: ATC'25, ATC'24.</li>
   <li><strong>Conference Reviewer</strong>: ICML'25, AISTATS'24, ICLR'24, NeurIPS'24, SenSys'23, ICDCS'22, IoTDI'21, INFOCOM'21, Globecom'21, Buildsys'20, ICDCS'20, MASS'20, MSN'19.</li>
   <li><strong>Journal Reviewer</strong>: Transactions on Network Science and Engineering '24, IEEE Internet of Things Journal '24, ACM Transactions on Internet of Things'24, Applied Artificial Intelligence'24, IEEE Transactions on Sensor Networks '23, IEEE Internet of Things Journal '22.</li>
   <li><strong>Artifact Evaluation Committee</strong>: OSDI'24, ATC'24, OSDI'23, ATC'23.</li>
