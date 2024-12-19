@@ -36,9 +36,7 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 * [**BuildSys'19**] OCTOPUS: Deep Reinforcement Learning for Holistic Smart Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2019. [Paper](https://dl.acm.org/doi/abs/10.1145/3360322.3360857)
 * [**LCTES'17**] Unified nvTCAM and sTCAM Architecture for Improving Packet Matching Performance. 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems <u>Xianzhong Ding</u>, Zhiyong Zhang, Zhiping Jia et al. 2017. [Paper](https://dl.acm.org/doi/10.1145/3140582.3081034)
 
-
-Work Experience
-======
+<span style='color:darkred'>**Work Experience**</span>
 * Research Intern, ByteDance Infrastructure System Lab, Mountain View, United States
   * May - Nov 2022
   * Supervisor: Tieying Zhang
