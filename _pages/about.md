@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style='font-size:16px;'>I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the supervision Prof. <a href="https://sites.ucmerced.edu/wdu">Wan Du</a> and Prof. <a href="http://www.andes.ucmerced.edu/~acerpa/">Alberto Cerpa</a>. Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University. My research interests mainly lie in ML for System, Deep Reinforcement Learning (DRL), Large Language Models (LLM) and Resource Optimization.</span>
+<span style='font-size:16px;'>I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the supervision Prof. <a href="https://sites.ucmerced.edu/wdu">Wan Du</a> and Prof. <a href="http://www.andes.ucmerced.edu/~acerpa/">Alberto Cerpa</a>. Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University. </span>
 
 <p style='font-size:16px;'>For more information, please click here for the <a href="http://dingxianzhong.github.io/files/CV_Xianzhong.pdf">Curriculum Vitae</a></p>
 
