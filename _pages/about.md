@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me ([CV](http://dingxianzhong.github.io/files/CV_Xianzhong.pdf))"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the supervision Prof. [Wan Du](https://sites.ucmerced.edu/wdu) and Prof. [Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). Before moving to Merced in 2018, I received my master's degree from Shandong University and bachelor's degree from Taishan University. My research interests mainly lie in ML for System, Deep Reinforcement Learning (DRL), Large Language Models (LLM) and Resource Optimization.
+
+For more information, please click here for the [Curriculum Vitae](http://dingxianzhong.github.io/files/CV_Xianzhong.pdf)
+
+### Research Interests
+- ML for System
+- Deep Reinforcement Learning (DRL)
+- Large Language Models (LLM)
+- Resource Optimization
 
 ### Selected Publications
 * [**HICSS'25**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>**Best Paper Nominations**</span>
