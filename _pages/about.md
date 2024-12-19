@@ -21,8 +21,6 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 
 
 <span style='color:darkred'>**Selected Publications**</span>
-<ul style='font-size:16px;'>
-
 * [**HICSS'25**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>**Best Paper Nominations**</span>
 * [**TOSN'24**] Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024. 
 [Paper](https://dl.acm.org/doi/full/10.1145/3662182)
@@ -40,7 +38,7 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 * [**ICDCS'20**] Continuous, Real-Time Object Detection on Mobile Devices without Offloading. IEEE 40th International Conference on Distributed Computing Systems. Miaomiao Liu, <u>Xianzhong Ding</u>, Wan Du. 2020.  [Paper](https://ieeexplore.ieee.org/document/9355581) · [Video](https://www.youtube.com/watch?v=7_kCXFLwUg4)
 * [**BuildSys'19**] OCTOPUS: Deep Reinforcement Learning for Holistic Smart Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2019. [Paper](https://dl.acm.org/doi/abs/10.1145/3360322.3360857)
 * [**LCTES'17**] Unified nvTCAM and sTCAM Architecture for Improving Packet Matching Performance. 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems <u>Xianzhong Ding</u>, Zhiyong Zhang, Zhiping Jia et al. 2017. [Paper](https://dl.acm.org/doi/10.1145/3140582.3081034)
-</ul>
+
 
 <span style='color:darkred'>**Work Experience**</span>
 * Research Intern, ByteDance Infrastructure System Lab, Mountain View, United States
@@ -49,17 +47,17 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 * Research Assistant, Electrical Engineering and Computer Science, UC Merced
   * August 2018 - present
   * Supervisor: Prof. Wan Du and Alberto Cerpa
-
 * Research Assistant, Computer Science, Shandong Uinversity, China
   * August 2015 - May 2018
   * Supervisor: Prof. Zhiping Jia
 
 <span style='color:darkred'>**Professional Activities**</span>
-- **PC Members**: ATC'25, ATC'24.
-- **Conference Reviewer**: ICML'25, AISTATS'24, ICLR'24, NeurIPS'24, SenSys'23, ICDCS'22, IoTDI'21, INFOCOM'21, Globecom'21, Buildsys'20, ICDCS'20, MASS'20, MSN'19.
-- **Journal Reviewer**: Transactions on Network Science and Engineering '24, IEEE Internet of Things Journal '24, ACM Transactions on Internet of Things'24, Applied Artificial Intelligence'24, IEEE Transactions on Sensor Networks '23, IEEE Internet of Things Journal '22.
-- **Artifact Evaluation Committee**: OSDI'24, ATC'24, OSDI'23, ATC'23.
-
+<ul style='font-size:16px;'>
+  <li><strong>PC Members</strong>: ATC'25, ATC'24.</li>
+  <li><strong>Conference Reviewer</strong>: ICML'25, AISTATS'24, ICLR'24, NeurIPS'24, SenSys'23, ICDCS'22, IoTDI'21, INFOCOM'21, Globecom'21, Buildsys'20, ICDCS'20, MASS'20, MSN'19.</li>
+  <li><strong>Journal Reviewer</strong>: Transactions on Network Science and Engineering '24, IEEE Internet of Things Journal '24, ACM Transactions on Internet of Things'24, Applied Artificial Intelligence'24, IEEE Transactions on Sensor Networks '23, IEEE Internet of Things Journal '22.</li>
+  <li><strong>Artifact Evaluation Committee</strong>: OSDI'24, ATC'24, OSDI'23, ATC'23.</li>
+</ul>
 <span style='color:darkred'>**Honors and Awards**</span>
 <ul style='font-size:16px;'>
   <li>Best Paper Nomination, HICSS-58, 2025.</li>
