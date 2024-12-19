@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xianzhong Ding"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Xianzhong Ding"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xianzhong Ding"
+  name             : ""
   avatar           : "profile.jpeg"
-  bio              : "Ph.D Candidate from University of California, Merced (UCM)."
-  location         : "Merced, CA"
+  bio              : ""
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lUNyhjwAAAAJ&hl=en"
-  email            : "xding5@ucmerced.edu"
+  email            : "dingxianzhong@lbl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
