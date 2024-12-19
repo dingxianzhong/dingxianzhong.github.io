@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "<span style='color:darkred'>**About me**</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -27,7 +27,7 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
   </div>
 </div>
 
-### Selected Publications
+<span style='color:darkred'>**Selected Publications**</span>
 * [**HICSS'25**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>**Best Paper Nominations**</span>
 * [**TOSN'24**] Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024. 
 [Paper](https://dl.acm.org/doi/full/10.1145/3662182)
@@ -45,6 +45,7 @@ For more information, please click here for the [Curriculum Vitae](http://dingxi
 * [**ICDCS'20**] Continuous, Real-Time Object Detection on Mobile Devices without Offloading. IEEE 40th International Conference on Distributed Computing Systems. Miaomiao Liu, <u>Xianzhong Ding</u>, Wan Du. 2020.  [Paper](https://ieeexplore.ieee.org/document/9355581) · [Video](https://www.youtube.com/watch?v=7_kCXFLwUg4)
 * [**BuildSys'19**] OCTOPUS: Deep Reinforcement Learning for Holistic Smart Building Control. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa. 2019. [Paper](https://dl.acm.org/doi/abs/10.1145/3360322.3360857)
 * [**LCTES'17**] Unified nvTCAM and sTCAM Architecture for Improving Packet Matching Performance. 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems <u>Xianzhong Ding</u>, Zhiyong Zhang, Zhiping Jia et al. 2017. [Paper](https://dl.acm.org/doi/10.1145/3140582.3081034)
+
 
 Work Experience
 ======
