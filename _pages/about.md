@@ -52,7 +52,7 @@ redirect_from:
     <a href="https://dl.acm.org/doi/10.1145/3656043">Paper</a>
   </li>
   <li>
-    <strong>[MLSys'23</strong>: Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. Workshop on ML for Systems at NeurIPS. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. New Orleans, December 2023. 
+    <strong>[MLSys'23]</strong>: Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. Workshop on ML for Systems at NeurIPS. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. New Orleans, December 2023. 
     <a href="https://mlforsystems.org/assets/papers/neurips2023/paper37.pdf">Paper</a> · 
     <a href="https://openreview.net/forum?id=TMvtla5bOP">OpenReview</a> · 
     <a href="https://neurips.cc/virtual/2023/84261">Video</a> · 
