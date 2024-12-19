@@ -11,13 +11,27 @@ I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 ### Selected Publications
 
+
+* ![Golden Retriever](/images/profile.jpeg) **Golden-Retriever: High-Fidelity Agentic Retrieval Augmented Generation for Industrial Knowledge Base**  
+  Zhiyu An, <u>Xianzhong Ding</u>, Yen-Chun Fu, Cheng-Chung Chu, Yan Li, Wan Du.  
+  *arXiv 2024*.  
+  [Paper](https://dl.acm.org/doi/10.1145/3649329.3656234) · [BibTeX](https://dl.acm.org/doi/10.1145/3649329.3656234)
+
+* ![MARLP](/images/profile.jpeg) **MARLP: Time-series Forecasting Control for Agricultural Managed Aquifer Recharge**  
+  Yuning Chen, Kang Yang, <u>Zhiyu An</u>, Brady Holder, Luke Paloutzian, Khaled M. Bali, Wan Du.  
+  *Knowledge Discovery and Data Mining (KDD) 2024*.  
+  [Paper](https://dl.acm.org/doi/10.1145/3649329.3656234) · [Code](#) · [Slides](#) · [BibTeX](#)
+
+
+
+
 * [**HICSS'25**] Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style='color:red'>**Best Paper Nominations**</span>.
 * [**TOSN'24**] Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024. [Paper](https://dl.acm.org/doi/full/10.1145/3662182).
 * [**TASE'24**] Multi-zone HVAC Control with Model-based Deep Reinforcement Learning.  IEEE Transactions on Automation Science and Engineering. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. June 2024. [Paper](https://ieeexplore.ieee.org/abstract/document/10557792).
 * [**DAC'24**] Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control. The 61st ACM/IEEE Design Automation Conference. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. February 2024. [Paper](https://dl.acm.org/doi/10.1145/3649329.3656234).
 * [**ICLR'24**] Reward Bound for Behavioral Guarantee of Model-Based Planning Agents. ICLR 24 tiny paper track. Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. 2024. [Paper](https://arxiv.org/abs/2402.13419).
 * [**TOSN'24**] Exploring Deep Reinforcement Learning for Holistic Smart Building Control. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. 2024. [Paper](https://dl.acm.org/doi/10.1145/3656043).
-* [**MLSys'23**] Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. Workshop on ML for Systems at NeurIPS. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. New Orleans, December 2023.  <span style='color:red'>**Oral**</span>. [Paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openreview.net/pdf?id=TMvtla5bOP) [Video](https://neurips.cc/virtual/2023/84261)
+* [**MLSys'23**] Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. Workshop on ML for Systems at NeurIPS. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. New Orleans, December 2023.  <span style='color:red'>**Oral**</span>. [Paper](https://mlforsystems.org/assets/papers/neurips2023/paper37.pdf) [Video](https://neurips.cc/virtual/2023/84261) [Code](https://github.com/bytedance/DRL-based-VM-Rescheduling)
 * [**SC-W'23**] HPC-GPT: Integrating Large Language Model for High-Performance Computing. Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis. <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du. 2023. [Paper](https://dl.acm.org/doi/abs/10.1145/3624062.3624172).
 * [**BuildSys'23**] CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation. ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. Zhiyu An, <u>Xianzhong Ding</u>, Arya Rathee, Wan Du. 2023. <span style='color:red'>**Best Paper Runner-Up Award**</span>.  [Paper](https://dl.acm.org/doi/10.1145/3600100.3623742).
 * [**e-Energy'23**] MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings. ACM International Conference on Future Energy Systems. Hamid Rajabi, Zhizhang Hu, <u>Xianzhong Ding</u>, Shijia Pan, Wan Du, Alberto Cerpa. 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3538637.3538852).
