@@ -50,6 +50,15 @@ Work Experience
   * August 2015 - May 2018
   * Supervisor: Prof. Zhiping Jia
 
+
+### Professional Activities
+
+- **PC Members**: ATC'25, ATC'24.
+- **Conference Reviewer**: AISTATS'24, ICLR'24, NeurIPS'24, SenSys'23, ICDCS'22, IoTDI'21, INFOCOM'21, Globecom'21, Buildsys'20, ICDCS'20, MASS'20, MSN'19.
+- **Journal Reviewer**: Transactions on Network Science and Engineering '24, IEEE Internet of Things Journal '24, ACM Transactions on Internet of Things'24, Applied Artificial Intelligence'24, IEEE Transactions on Sensor Networks '23, IEEE Internet of Things Journal '22.
+- **Artifact Evaluation Committee**: OSDI'24, ATC'24, OSDI'23, ATC'23.
+
+
 Honors and Awards
 ======
 * Bobcat Summer Fellowship, EECS, UC Merced, 2021.
@@ -61,6 +70,8 @@ Honors and Awards
 * First level scholarship of Shandong University, 2017 - 2018.
 * Third level scholarship for comprehensive performance, Shandong University, 2016 - 2017.
 * Scholarship for outstanding academic performance, Shandong University, 2015 - 2016. 
+
+
 
 
 ------
