@@ -24,7 +24,7 @@ redirect_from:
 <span style='color:darkred'>**Selected Publications**</span>
 <ul style="font-size:16px;">
   <li>
-    <strong>[EuroSys'25]</strong>: Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. Proceedings of the Nineteenth European Conference on Computer Systems. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. Rotterdam, April 2025. 
+    <strong>[EuroSys'25]</strong>: Towards VM Rescheduling Optimization Through Deep Reinforcement Learning. Proceedings of the Nineteenth European Conference on Computer Systems. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. Rotterdam, April 2025. 
   </li>
   <li>
     <strong>[HICSS'25]</strong>: Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style="color:red;"><strong>Best Paper Nominations</strong></span>
