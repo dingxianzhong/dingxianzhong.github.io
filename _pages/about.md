@@ -59,7 +59,7 @@ redirect_from:
     <a href="https://mlforsystems.org/assets/papers/neurips2023/paper37.pdf">Paper</a> · 
     <a href="https://openreview.net/forum?id=TMvtla5bOP">OpenReview</a> · 
     <a href="https://neurips.cc/virtual/2023/84261">Video</a> · 
-    <a href="https://github.com/bytedance/DRL-based-VM-Rescheduling">Code</a> · <span style="color:red;"><strong>Oral</strong></span>
+    <a href="https://github.com/bytedance/DRL-based-VM-Rescheduling">Code</a> · <span style="color:red;"><strong>Spotlight Presentation</strong></span>
   </li>
   <li>
     <strong>[SC-W'23]</strong>: HPC-GPT: Integrating Large Language Model for High-Performance Computing. Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis. <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du. 2023. 
