@@ -14,36 +14,31 @@ redirect_from:
 <span style='color:darkred'>**Selected Publications**</span>
 <ul style="font-size:16px;">
   <li>
-    <strong>Towards VM Rescheduling Optimization Through Deep Reinforcement Learning</strong><br>
-    <em>EuroSys'25 – Proceedings of the Twentieth European Conference on Computer Systems</em><br>
+    <strong>[EuroSys'25]</strong> Towards VM Rescheduling Optimization Through Deep Reinforcement Learning<br>
     <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du.<br>
     Rotterdam, April 2025.
   </li>
   <li>
-    <strong>Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery</strong><br>
-    <em>HICSS'25 – Hawaii International Conference on System Sciences (HICSS-58)</em><br>
+    <strong>[HICSS'25]</strong> Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery<br>
     <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du.<br>
     Hawaii, January 2025.<br>
     <a href="https://scholarspace.manoa.hawaii.edu/bitstreams/cfd855e4-3496-4594-a603-04a38effba7c/download">Paper</a> · 
     <span style="color:red;"><strong>Best Paper Award</strong></span>
   </li>
   <li>
-    <strong>Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field</strong><br>
-    <em>TOSN'24 – ACM Transactions on Sensor Networks</em><br>
+    <strong>[TOSN'24]</strong> Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field<br>
     <u>Xianzhong Ding</u>, Wan Du.<br>
     July 2024.<br>
     <a href="https://dl.acm.org/doi/full/10.1145/3662182">Paper</a>
   </li>
   <li>
-    <strong>Multi-zone HVAC Control with Model-based Deep Reinforcement Learning</strong><br>
-    <em>TASE'24 – IEEE Transactions on Automation Science and Engineering</em><br>
+    <strong>[TASE'24]</strong> Multi-zone HVAC Control with Model-based Deep Reinforcement Learning<br>
     <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du.<br>
     June 2024.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10557792">Paper</a>
   </li>
   <li>
-    <strong>Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control</strong><br>
-    <em>DAC'24 – The 61st ACM/IEEE Design Automation Conference</em><br>
+    <strong>[DAC'24]</strong> Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control<br>
     Zhiyu An, <u>Xianzhong Ding</u>, Wan Du.<br>
     February 2024.<br>
     <a href="https://dl.acm.org/doi/10.1145/3649329.3656234">Paper</a> · 
@@ -53,23 +48,20 @@ redirect_from:
     <a href="https://ryeii.github.io/assets/DAC%202024%20Go%20Beyond%20Poster.pdf">Poster</a>
   </li>
   <li>
-    <strong>Reward Bound for Behavioral Guarantee of Model-Based Planning Agents</strong><br>
-    <em>ICLR'24 – Tiny Paper Track, International Conference on Learning Representations</em><br>
+    <strong>[ICLR'24]</strong> Reward Bound for Behavioral Guarantee of Model-Based Planning Agents<br>
     Zhiyu An, <u>Xianzhong Ding</u>, Wan Du.<br>
     2024.<br>
     <a href="https://arxiv.org/abs/2402.13419">Paper</a> · 
     <a href="https://openreview.net/forum?id=n3ip7H2ioh">OpenReview</a>
   </li>
   <li>
-    <strong>Exploring Deep Reinforcement Learning for Holistic Smart Building Control</strong><br>
-    <em>TOSN'24 – ACM Transactions on Sensor Networks</em><br>
+    <strong>[TOSN'24]</strong> Exploring Deep Reinforcement Learning for Holistic Smart Building Control<br>
     <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du.<br>
     2024.<br>
     <a href="https://dl.acm.org/doi/10.1145/3656043">Paper</a>
   </li>
   <li>
-    <strong>Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers</strong><br>
-    <em>MLSys'23 – Workshop on ML for Systems at NeurIPS</em><br>
+    <strong>[MLSys'23]</strong> Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers<br>
     <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du.<br>
     New Orleans, December 2023.<br>
     <a href="https://mlforsystems.org/assets/papers/neurips2023/paper37.pdf">Paper</a> · 
@@ -79,8 +71,7 @@ redirect_from:
     <span style="color:red;"><strong>Spotlight Presentation</strong></span>
   </li>
   <li>
-    <strong>HPC-GPT: Integrating Large Language Model for High-Performance Computing</strong><br>
-    <em>SC-W'23 – Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis</em><br>
+    <strong>[SC-W'23]</strong> HPC-GPT: Integrating Large Language Model for High-Performance Computing<br>
     <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du.<br>
     2023.<br>
     <a href="https://dl.acm.org/doi/abs/10.1145/3624062.3624172">Paper</a> · 
@@ -88,8 +79,7 @@ redirect_from:
     <a href="https://huggingface.co/datasets/HPC-GPT/HPC">Dataset</a>
   </li>
   <li>
-    <strong>CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation</strong><br>
-    <em>BuildSys'23 – ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation</em><br>
+    <strong>[BuildSys'23]</strong> CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation<br>
     Zhiyu An, <u>Xianzhong Ding</u>, Arya Rathee, Wan Du.<br>
     2023.<br>
     <a href="https://dl.acm.org/doi/10.1145/3600100.3623742">Paper</a> · 
