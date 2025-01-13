@@ -17,7 +17,7 @@ redirect_from:
     <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025.
   </li>
   <li>
-    <strong>[HICSS'25]</strong>: <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du, "Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery", Hawaii International Conference on System Sciences (HICSS-58). Hawaii, January 2025. 
+    <strong>[HICSS'25]</strong>: <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du, "Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery", The 58th Hawaii International Conference on System Sciences (HICSS). Hawaii, January 2025. 
     <a href="https://scholarspace.manoa.hawaii.edu/bitstreams/cfd855e4-3496-4594-a603-04a38effba7c/download">Paper</a> · <span style="color:red;"><strong>Best Paper Award</strong></span>
   </li>
   <li>
