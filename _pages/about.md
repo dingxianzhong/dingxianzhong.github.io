@@ -27,7 +27,7 @@ redirect_from:
     <strong>[EuroSys'25]</strong>: Towards VM Rescheduling Optimization Through Deep Reinforcement Learning. Proceedings of the Twentieth European Conference on Computer Systems. <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. Rotterdam, April 2025.
   </li>
   <li>
-    <strong>[HICSS'25]</strong>: Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <span style="color:red;"><strong>Best Paper Nominations</strong></span>
+    <strong>[HICSS'25]</strong>: Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. Hawaii International Conference on System Sciences (HICSS-58). <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. <a href="https://scholarspace.manoa.hawaii.edu/bitstreams/cfd855e4-3496-4594-a603-04a38effba7c/download">Paper</a> <span style="color:red;"><strong>Best Paper Award</strong></span>
   </li>
   <li>
     <strong>[TOSN'24]</strong>: Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. ACM Transactions on Sensor Networks. <u>Xianzhong Ding</u>, Wan Du. July 2024. 
@@ -113,7 +113,7 @@ redirect_from:
 </ul>
 <span style='color:darkred'>**Honors and Awards**</span>
 <ul style='font-size:16px;'>
-  <li>Best Paper Nomination, HICSS-58, 2025.</li>
+  <li>Best Paper Award, HICSS-58, 2025.</li>
   <li>Top Reviewer at NeurIPS, 2024.</li>
   <li>Best Paper Runner-up Award, ACM BuildSys, 2023</li>
   <li>Bobcat Summer Fellowship, EECS, UC Merced, 2021.</li>
