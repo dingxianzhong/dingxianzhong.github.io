@@ -10,37 +10,31 @@ redirect_from:
 <span style='font-size:16px;'>I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the guidance of [Prof. Wan Du](https://sites.ucmerced.edu/wdu) and [Prof. Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). My research focuses on applying deep learning to address real-world resource scheduling and optimization challenges, such as energy optimization in smart buildings, water resource optimization in agriculture, and computing resource scheduling in data centers. My work has been featured in top-tier conferences and journals, including EuroSys, IPSN, LCTES, DAC, BuildSys, ICLR, TASE, and TOSN.</span>
 
 <p style='font-size:16px;'>For more information, please click here for the <a href="http://dingxianzhong.github.io/files/Resume_Xianzhong.pdf">Curriculum Vitae</a></p>
-
 <span style='color:darkred'>**Selected Publications**</span>
 <ul style="font-size:16px;">
   <li>
-    <strong>[EuroSys'25]</strong> Towards VM Rescheduling Optimization Through Deep Reinforcement Learning<br>
-    <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du.<br>
-    Rotterdam, April 2025.
+    <strong>[EuroSys'25]</strong> Towards VM Rescheduling Optimization Through Deep Reinforcement Learning. 
+    <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. Rotterdam, April 2025.
   </li>
   <li>
-    <strong>[HICSS'25]</strong> Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery<br>
-    <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du.<br>
-    Hawaii, January 2025.<br>
+    <strong>[HICSS'25]</strong> Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery. 
+    <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du. Hawaii, January 2025. 
     <a href="https://scholarspace.manoa.hawaii.edu/bitstreams/cfd855e4-3496-4594-a603-04a38effba7c/download">Paper</a> · 
     <span style="color:red;"><strong>Best Paper Award</strong></span>
   </li>
   <li>
-    <strong>[TOSN'24]</strong> Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field<br>
-    <u>Xianzhong Ding</u>, Wan Du.<br>
-    July 2024.<br>
+    <strong>[TOSN'24]</strong> Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field. 
+    <u>Xianzhong Ding</u>, Wan Du. July 2024. 
     <a href="https://dl.acm.org/doi/full/10.1145/3662182">Paper</a>
   </li>
   <li>
-    <strong>[TASE'24]</strong> Multi-zone HVAC Control with Model-based Deep Reinforcement Learning<br>
-    <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du.<br>
-    June 2024.<br>
+    <strong>[TASE'24]</strong> Multi-zone HVAC Control with Model-based Deep Reinforcement Learning. 
+    <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. June 2024. 
     <a href="https://ieeexplore.ieee.org/abstract/document/10557792">Paper</a>
   </li>
   <li>
-    <strong>[DAC'24]</strong> Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control<br>
-    Zhiyu An, <u>Xianzhong Ding</u>, Wan Du.<br>
-    February 2024.<br>
+    <strong>[DAC'24]</strong> Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control. 
+    Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. February 2024. 
     <a href="https://dl.acm.org/doi/10.1145/3649329.3656234">Paper</a> · 
     <a href="https://github.com/ryeii/Veri_HVAC">Code</a> · 
     <a href="https://ryeii.github.io/assets/DAC_2024_Zhiyu_An_Go_Beyond.pptx.pdf">Slides</a> · 
@@ -48,22 +42,19 @@ redirect_from:
     <a href="https://ryeii.github.io/assets/DAC%202024%20Go%20Beyond%20Poster.pdf">Poster</a>
   </li>
   <li>
-    <strong>[ICLR'24]</strong> Reward Bound for Behavioral Guarantee of Model-Based Planning Agents<br>
-    Zhiyu An, <u>Xianzhong Ding</u>, Wan Du.<br>
-    2024.<br>
+    <strong>[ICLR'24]</strong> Reward Bound for Behavioral Guarantee of Model-Based Planning Agents. 
+    Zhiyu An, <u>Xianzhong Ding</u>, Wan Du. 2024. 
     <a href="https://arxiv.org/abs/2402.13419">Paper</a> · 
     <a href="https://openreview.net/forum?id=n3ip7H2ioh">OpenReview</a>
   </li>
   <li>
-    <strong>[TOSN'24]</strong> Exploring Deep Reinforcement Learning for Holistic Smart Building Control<br>
-    <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du.<br>
-    2024.<br>
+    <strong>[TOSN'24]</strong> Exploring Deep Reinforcement Learning for Holistic Smart Building Control. 
+    <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du. 2024. 
     <a href="https://dl.acm.org/doi/10.1145/3656043">Paper</a>
   </li>
   <li>
-    <strong>[MLSys'23]</strong> Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers<br>
-    <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du.<br>
-    New Orleans, December 2023.<br>
+    <strong>[MLSys'23]</strong> Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers. 
+    <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du. New Orleans, December 2023. 
     <a href="https://mlforsystems.org/assets/papers/neurips2023/paper37.pdf">Paper</a> · 
     <a href="https://openreview.net/forum?id=TMvtla5bOP">OpenReview</a> · 
     <a href="https://neurips.cc/virtual/2023/84261">Video</a> · 
@@ -71,17 +62,15 @@ redirect_from:
     <span style="color:red;"><strong>Spotlight Presentation</strong></span>
   </li>
   <li>
-    <strong>[SC-W'23]</strong> HPC-GPT: Integrating Large Language Model for High-Performance Computing<br>
-    <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du.<br>
-    2023.<br>
+    <strong>[SC-W'23]</strong> HPC-GPT: Integrating Large Language Model for High-Performance Computing. 
+    <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du. 2023. 
     <a href="https://dl.acm.org/doi/abs/10.1145/3624062.3624172">Paper</a> · 
     <a href="https://github.com/dingxianzhong/HPC-GPT">Code</a> · 
     <a href="https://huggingface.co/datasets/HPC-GPT/HPC">Dataset</a>
   </li>
   <li>
-    <strong>[BuildSys'23]</strong> CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation<br>
-    Zhiyu An, <u>Xianzhong Ding</u>, Arya Rathee, Wan Du.<br>
-    2023.<br>
+    <strong>[BuildSys'23]</strong> CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation. 
+    Zhiyu An, <u>Xianzhong Ding</u>, Arya Rathee, Wan Du. 2023. 
     <a href="https://dl.acm.org/doi/10.1145/3600100.3623742">Paper</a> · 
     <a href="https://github.com/ryeii/CLUE">Code</a> · 
     <a href="https://ryeii.github.io/assets/clue_shorter_slides.pdf">Slides (8 mins)</a> · 
