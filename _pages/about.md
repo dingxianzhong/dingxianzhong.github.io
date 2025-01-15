@@ -11,6 +11,12 @@ redirect_from:
 
 <p style='font-size:16px;'>For more information, please click here for the <a href="http://dingxianzhong.github.io/files/Resume_Xianzhong.pdf">Curriculum Vitae</a></p>
 
+<h2>News</h2>
+<ul style="font-size:16px;">
+  <li>2025/01 - Won the Best Paper Award at HICSS 2025.</li>
+  <li>2024/12 - One paper got accepted to EuroSys 2025.</li>
+</ul>
+
 <span style='color:darkred'>**Selected Publications** (* denotes equal contribution)</span>
 <ul style="font-size:16px;">
   <li>
