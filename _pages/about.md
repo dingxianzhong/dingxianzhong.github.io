@@ -11,6 +11,15 @@ redirect_from:
 
 <p style='font-size:16px;'>For more information, please click here for the <a href="http://dingxianzhong.github.io/files/Resume_Xianzhong.pdf">Curriculum Vitae</a></p>
 
+
+<span style='color:darkred'>**Research Interests**</span>
+<ul style="font-size:16px;">
+  <li>ML for System</li>
+  <li>Large Language Models</li>
+  <li>Deep Reinforcement Learning</li>
+  <li>Resource Optimization/Scheduling</li>
+</ul>
+
 <span style='color:darkred'>**News**</span>
 <ul style="font-size:16px;">
   <li>2025/01 - Won the Best Paper Award at HICSS 2025.</li>
