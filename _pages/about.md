@@ -9,6 +9,11 @@ redirect_from:
 ---
 <span style='font-size:16px;'>I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the guidance of [Prof. Wan Du](https://sites.ucmerced.edu/wdu) and [Prof. Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). My research focuses on applying deep learning to address real-world resource scheduling and optimization challenges, such as energy optimization in smart buildings, water resource optimization in agriculture, and computing resource scheduling in data centers. My work has been featured in top-tier conferences and journals, including EuroSys, IPSN, LCTES, DAC, BuildSys, ICLR, TASE, and TOSN.</span>
 
+<p style="font-size:16px;">
+  <a href="https://www.linkedin.com/in/ding-xianzhong-0b5aa9126/" target="_blank">[LinkedIn]</a> &nbsp; 
+  <a href="https://scholar.google.com/citations?user=lUNyhjwAAAAJ&hl=en" target="_blank">[Google Scholar]</a>
+</p>
+
 <p style='font-size:16px;'>For more information, please click here for the <a href="http://dingxianzhong.github.io/files/Resume_Xianzhong.pdf">Curriculum Vitae</a></p>
 
 
