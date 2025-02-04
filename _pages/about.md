@@ -26,6 +26,7 @@ redirect_from:
 
 <span style='color:darkred'>**News**</span>
 <ul style="font-size:16px;">
+  <li>2025/02 - One paper got accepted to IEEE IoT-J 2025.</li>
   <li>2025/01 - Won the Best Paper Award at HICSS 2025.</li>
   <li>2024/12 - One paper got accepted to EuroSys 2025.</li>
 </ul>
@@ -33,6 +34,9 @@ redirect_from:
 
 <span style='color:darkred'>**Selected Publications** (* denotes equal contribution)</span>
 <ul style="font-size:16px;">
+<li>
+    <strong>[IoT-J'25]</strong>: <u>Xianzhong Ding*</u>, Zhiyu An*, Arya Rathee, Wan Du, "A Safe and Data-efficient Model-based Reinforcement Learning System for HVAC Control", <em>IEEE Internet of Things Journal</em>, 2025.
+</li>
   <li>
     <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025.
   </li>
