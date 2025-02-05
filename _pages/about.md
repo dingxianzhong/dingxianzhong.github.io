@@ -12,7 +12,7 @@ redirect_from:
 <p style='font-size:16px;'>For more information, please click here for the <a href="http://dingxianzhong.github.io/files/Resume_Xianzhong.pdf">Curriculum Vitae</a></p>
 <p style="font-size:16px;">
   <a href="https://scholar.google.com/citations?user=your-id" target="_blank">[Google Scholar]</a> &nbsp; 
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">[LinkedIn]</a> &nbsp; 
+  <a href="https://www.linkedin.com/in/ding-xianzhong-0b5aa9126/" target="_blank">[LinkedIn]</a> &nbsp; 
   <a href="mailto:dingxianzhong@lbl.gov">[Email]</a>
 </p>
 
