@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style='font-size:16px;'>I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the guidance of [Prof. Wan Du](https://sites.ucmerced.edu/wdu) and [Prof. Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). My research focuses on applying deep learning to address real-world resource scheduling and optimization challenges, such as energy optimization in smart buildings, water resource optimization in agriculture, and computing resource scheduling in data centers. My work has been featured in top-tier conferences and journals, including EuroSys, IPSN, LCTES, DAC, BuildSys, ICLR, TASE, and TOSN.</span>
+<span style='font-size:16px;'>I am currently a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the guidance of [Prof. Wan Du](https://sites.ucmerced.edu/wdu) and [Prof. Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). My research focuses on applying deep learning to address real-world resource scheduling and optimization challenges, such as energy optimization in smart buildings, water resource optimization in agriculture, and computing resource scheduling in data centers. My work has been featured in top-tier conferences and journals, including EuroSys, IPSN, LCTES, DAC, BuildSys, ICLR, IoT-J, TASE, and TOSN.</span>
 
 <p style='font-size:16px;'>For more information, please click here for the <a href="http://dingxianzhong.github.io/files/Resume_Xianzhong.pdf">Curriculum Vitae</a></p>
 <p style="font-size:16px;">
@@ -35,7 +35,7 @@ redirect_from:
 <span style='color:darkred'>**Selected Publications** (* denotes equal contribution)</span>
 <ul style="font-size:16px;">
 <li>
-    <strong>[IoT-J'25]</strong>: <u>Xianzhong Ding*</u>, Zhiyu An*, Arya Rathee, Wan Du, "A Safe and Data-efficient Model-based Reinforcement Learning System for HVAC Control", IEEE Internet of Things Journal, 2025.
+    <strong>[IoT-J'25]</strong>: <u>Xianzhong Ding</u>, Zhiyu An, Arya Rathee, Wan Du, "A Safe and Data-efficient Model-based Reinforcement Learning System for HVAC Control", IEEE Internet of Things Journal, 2025.
 </li>
   <li>
     <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025.
