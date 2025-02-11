@@ -26,6 +26,7 @@ redirect_from:
 
 <span style='color:darkred'>**News**</span>
 <ul style="font-size:16px;">
+  <li>2025/02 - Invited as Guest Editor for IoT 2025.</li>
   <li>2025/02 - One paper got accepted to IEEE IoT-J 2025.</li>
   <li>2025/01 - Won the Best Paper Award at HICSS 2025.</li>
   <li>2024/12 - One paper got accepted to EuroSys 2025.</li>
