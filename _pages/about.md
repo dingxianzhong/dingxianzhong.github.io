@@ -41,7 +41,7 @@ redirect_from:
 </li>
 
   <li>
-    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <strong>(44/381=11.54%)</strong>
+    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://drive.google.com/file/d/1q-tu5J82k1MhihFungUI1HSw4MhMIh7Z/view?usp=drive_link">Paper</a> · <strong>(44/381=11.54%)</strong>
   </li>
 
   <li>
