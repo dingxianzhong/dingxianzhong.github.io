@@ -47,7 +47,7 @@ redirect_from:
   <li>
       <strong>[HICSS'25]</strong>: <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du, "Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery", The 58th Hawaii International Conference on System Sciences (HICSS). Hawaii, January 2025. 
       <a href="https://scholarspace.manoa.hawaii.edu/bitstreams/cfd855e4-3496-4594-a603-04a38effba7c/download">Paper</a> · 
-      <a href="https://hicss.hawaii.edu/best-papers/" style="color:red;"><strong>Best Paper Award</strong></a> <strong>(12/736=1.63%)</strong>
+      <a href="https://hicss.hawaii.edu/best-papers/" style="color:red;"><strong>Best Paper Award</strong></a> · <strong>(12/736=1.63%)</strong>
   </li>
 
   <li>
