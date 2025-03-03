@@ -41,7 +41,7 @@ redirect_from:
 </li>
 
   <li>
-    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · <a href="https://drive.google.com/file/d/1oeyZrEB0H8Gq7ZtL5U--bbiiN7hR912h/view?usp=sharing">Paper</a> · <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · <strong>(44/381=11.54%)</strong>
+    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · <a href="https://drive.google.com/file/d/1mKMh0HUMSu1JsUhtbck4pnZgO11VBopJ/view?usp=sharing">Paper</a> · <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · <strong>(44/381=11.54%)</strong>
   </li>
 
   <li>
