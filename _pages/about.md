@@ -41,7 +41,7 @@ redirect_from:
 </li>
 
   <li>
-    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · <a href="https://drive.google.com/file/d/1mKMh0HUMSu1JsUhtbck4pnZgO11VBopJ/view?usp=sharing">Paper</a> · <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · <strong>(44/381=11.54%)</strong>
+    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · <a href="https://dl.acm.org/doi/abs/10.1145/3689031.3717476">Paper</a> · <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · <strong>(44/381=11.54%)</strong>
   </li>
 
   <li>
@@ -52,11 +52,11 @@ redirect_from:
 
   <li>
     <strong>[TOSN'24]</strong>: <u>Xianzhong Ding</u>, Wan Du, "Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field", ACM Transactions on Sensor Networks. July 2024. 
-    <a href="https://dl.acm.org/doi/full/10.1145/3662182">Paper</a>
+    <a href="https://dl.acm.org/doi/full/10.1145/3662182">Paper</a> · <a href="https://drive.google.com/file/d/1DHx6Pae2SYJ77JegKO5XLm09lbBREx_S/view?usp=sharing">Code</a>
   </li>
   <li>
     <strong>[TASE'24]</strong>: <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du, "Multi-zone HVAC Control with Model-based Deep Reinforcement Learning", IEEE Transactions on Automation Science and Engineering. June 2024. 
-    <a href="https://ieeexplore.ieee.org/abstract/document/10557792">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10557792">Paper</a> · <a href="https://drive.google.com/file/d/1wngE0VpE1rYvLoy9njzaKz2dMxNfmDEH/view?usp=sharing">Code</a>
   </li>
   <li>
     <strong>[DAC'24]</strong>: Zhiyu An, <u>Xianzhong Ding</u>, Wan Du, "Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control", The 61st ACM/IEEE Design Automation Conference. February 2024. 
@@ -72,7 +72,7 @@ redirect_from:
   </li>
   <li>
     <strong>[TOSN'24]</strong>: <u>Xianzhong Ding</u>, Alberto Cerpa, Wan Du, "Exploring Deep Reinforcement Learning for Holistic Smart Building Control", ACM Transactions on Sensor Networks. 2024. 
-    <a href="https://dl.acm.org/doi/10.1145/3656043">Paper</a>
+    <a href="https://dl.acm.org/doi/10.1145/3656043">Paper</a> · <a href="https://drive.google.com/file/d/1b40-E62fvCew_wq65qzvuKn5pIqavLJR/view?usp=sharing">Code</a>
   </li>
   <li>
     <strong>[MLSys'23]</strong>: <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers", Workshop on ML for Systems at NeurIPS. New Orleans, December 2023. 
@@ -100,11 +100,11 @@ redirect_from:
   </li>
   <li>
     <strong>[IPSN'22]</strong>: <u>Xianzhong Ding</u>, Wan Du, "DRLIC: Deep Reinforcement Learning for Irrigation Control", The International Conference on Information Processing in Sensor Networks. 2022. 
-    <a href="https://ieeexplore.ieee.org/document/9826018">Paper</a>
+    <a href="https://ieeexplore.ieee.org/document/9826018">Paper</a> · <a href="https://drive.google.com/file/d/1DHx6Pae2SYJ77JegKO5XLm09lbBREx_S/view?usp=sharing">Code</a>
   </li>
   <li>
     <strong>[BuildSys'20]</strong>: <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa, "MB²C: Model-Based Deep Reinforcement Learning for Multi-zone Building Control", ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. 2020.  
-    <a href="https://dl.acm.org/doi/abs/10.1145/3408308.3427986">Paper</a> · 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3408308.3427986">Paper</a> · <a href="https://drive.google.com/file/d/1wngE0VpE1rYvLoy9njzaKz2dMxNfmDEH/view?usp=sharing">Code</a> ·
     <a href="https://www.youtube.com/watch?v=86UcsgKXFek&list=PL6jLuiS6wP5Z1xNoxqL4iSPJ3BNLhyDwt&index=3">Video</a> · <span style="color:red;"><strong>Best Paper Runner-Up Award</strong></span> · <span style="color:red;"><strong>Best Presentation Award</strong></span>
   </li>
   <li>
@@ -114,7 +114,7 @@ redirect_from:
   </li>
   <li>
     <strong>[BuildSys'19]</strong>: <u>Xianzhong Ding</u>, Wan Du, Alberto Cerpa, "OCTOPUS: Deep Reinforcement Learning for Holistic Smart Building Control", ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. 2019. 
-    <a href="https://dl.acm.org/doi/abs/10.1145/3360322.3360857">Paper</a>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3360322.3360857">Paper</a> · <a href="https://drive.google.com/file/d/1b40-E62fvCew_wq65qzvuKn5pIqavLJR/view?usp=sharing">Code</a>
   </li>
   <li>
     <strong>[LCTES'17]</strong>: <u>Xianzhong Ding</u>, Zhiyong Zhang, Zhiping Jia et al., "Unified nvTCAM and sTCAM Architecture for Improving Packet Matching Performance", 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems. 2017. 
