@@ -41,9 +41,8 @@ redirect_from:
 </li>
 
   <li>
-    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · <a href="https://dl.acm.org/doi/abs/10.1145/3689031.3717476">Paper</a> · <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · <strong>(44/381=11.54%)</strong>
+    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · <a href="https://dl.acm.org/doi/abs/10.1145/3689031.3717476">Paper</a> · <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · <a href="https://mp.weixin.qq.com/s/qrj8AKwrpEUWUQgi6yiC8Q">Media (CN)</a> · <strong>(44/381=11.54%)</strong>
   </li>
-
   <li>
       <strong>[HICSS'25]</strong>: <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du, "Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery", The 58th Hawaii International Conference on System Sciences (HICSS). Hawaii, January 2025. 
       <a href="https://scholarspace.manoa.hawaii.edu/bitstreams/cfd855e4-3496-4594-a603-04a38effba7c/download">Paper</a> · 
