@@ -11,7 +11,7 @@ redirect_from:
 
 <p style='font-size:16px;'>For more information, please click here for the <a href="https://drive.google.com/file/d/1aspw5qcFCwrt3S1-s1SGeod78FF9OO9e/view?usp=sharing">Curriculum Vitae (CV)</a></p>
 <p style="font-size:16px;">
-  <a href="https://scholar.google.com/citations?user=your-id" target="_blank">[Google Scholar]</a> &nbsp; 
+  <a href="https://scholar.google.com/citations?user=lUNyhjwAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp; 
   <a href="https://www.linkedin.com/in/ding-xianzhong-0b5aa9126/" target="_blank">[LinkedIn]</a> &nbsp; 
   <a href="mailto:dingxianzhong@lbl.gov">[Email]</a>
 </p>
