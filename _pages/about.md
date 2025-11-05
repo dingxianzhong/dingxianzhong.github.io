@@ -7,22 +7,45 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style='font-size:16px;'>I am currently an Advanced AI Research Scientist at Accenture. Previously, I was a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL). I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM), under the guidance of [Prof. Wan Du](https://sites.ucmerced.edu/wdu) and [Prof. Alberto Cerpa](http://www.andes.ucmerced.edu/~acerpa/). My research focuses on applying deep learning to address real-world resource scheduling and optimization challenges, such as energy optimization in smart buildings, water resource optimization in agriculture, and computing resource scheduling in data centers. My work has been featured in top-tier conferences and journals, including EuroSys, IPSN, LCTES, DAC, BuildSys, ICLR, IOT-J, TASE, and TOSN.</span>
+<span style='font-size:16px;'>
+I am an <strong>Advanced AI Research Scientist at Accenture</strong> focusing on <strong>multi-agent systems, LLM orchestration, and scalable AI infrastructure</strong>. 
+At Accenture’s <strong>AI Refinery</strong>, I work on building the orchestration layer that integrates AI agents and cloud AI platforms 
+(<strong>AWS Bedrock</strong>, <strong>Azure AI</strong>, <strong>Google Vertex AI</strong>) through a unified Python SDK for enterprise-scale deployment.
+<br><br>
+Previously, as a <strong>Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL)</strong>, 
+I developed <a href="https://github.com/dingxianzhong/play-verl">play-verl</a> — a VERL-based reinforcement learning benchmark 
+evaluating PPO and GRPO algorithms on Qwen models with distributed training on multi-GPU systems.  
+I also worked on <strong>LLM fine-tuning for freight infrastructure</strong> and <strong>large-scale EV simulations</strong>.
+I hold a Ph.D. in Computer Science and Engineering from the <strong>University of California, Merced</strong>.
+</span>
 
-<p style='font-size:16px;'>For more information, please click here for the <a href="https://drive.google.com/file/d/1aspw5qcFCwrt3S1-s1SGeod78FF9OO9e/view?usp=sharing">Curriculum Vitae (CV)</a></p>
+
+<p style='font-size:16px;'>For more information, please click here for the <a href="https://drive.google.com/file/d/1-ZKd8vFsnRgef8hbvhrFsM_qaYemWRp3/view?usp=sharing">Curriculum Vitae (CV)</a></p>
 <p style="font-size:16px;">
   <a href="https://scholar.google.com/citations?user=lUNyhjwAAAAJ&hl=en" target="_blank">[Google Scholar]</a> &nbsp; 
   <a href="https://www.linkedin.com/in/ding-xianzhong-0b5aa9126/" target="_blank">[LinkedIn]</a> &nbsp; 
-  <a href="mailto:dingxianzhong@lbl.gov">[Email]</a>
+  <a href="mailto:contactdingxz@gmail.com">[Email]</a>
 </p>
 
 <span style='color:darkred'>**Research Interests**</span>
 <ul style="font-size:16px;">
-  <li>ML for System</li>
-  <li>Large Language Models</li>
-  <li>Deep Reinforcement Learning</li>
-  <li>Resource Optimization/Scheduling</li>
+  <li>Large Language Models (LLMs) and Multi-Agent Systems</li>
+  <li>Reinforcement Learning and Reinforcement Learning from Human Feedback (RLHF)</li>
+  <li>Distributed Training and Scalable AI Infrastructure</li>
+  <li>Machine Learning for Systems and Resource Optimization</li>
 </ul>
+
+
+
+<span style='color:darkred'>**Technical Skills**</span>
+<ul style="font-size:16px;">
+  <li><strong>Languages:</strong> Python, C/C++, SQL</li>
+  <li><strong>Frameworks:</strong> PyTorch, JAX, LangChain, AutoGen, FastAPI, Ray, DeepSpeed, FSDP</li>
+  <li><strong>LLM/Agents:</strong> Multi-Agent Systems, RAG/GraphRAG, MCP, RLHF, VERL, LLMOps</li>
+  <li><strong>Cloud/Infra:</strong> Azure, AWS, Kubernetes, Docker, Redis, PostgreSQL, Databricks, Snowflake</li>
+  <li><strong>Tools:</strong> Git, GitHub Actions, Helm, pytest, Black, Pylint, Pyright</li>
+</ul>
+
 
 <span style='color:darkred'>**News**</span>
 <ul style="font-size:16px;">
@@ -33,16 +56,37 @@ redirect_from:
 </ul>
 
 
+<span style='color:darkred'>**Selected Projects**</span>
+<ul style="font-size:16px;">
+  <li><strong><a href="https://github.com/dingxianzhong/play-verl">play-verl</a></strong> (LBNL, 2024–2025) — VERL-based reinforcement learning benchmark (PPO/GRPO on Qwen models) with 8×H100 distributed training using pipeline and tensor parallelism; achieved 4.4× throughput and +7.3% reward gains; fully reproducible scripts and public W&B logs.</li>
+
+  <li><strong>AI Refinery Orchestration SDK</strong> (Accenture, 2025– ) — Multi-agent orchestration layer integrating analytics, research, and enterprise connectors with AWS Bedrock, Azure AI, and Google Vertex AI; implemented persistent client pattern and CI/CD automation for secure Kubernetes deployments.</li>
+
+  <li><strong>VMR²L: Reinforcement Learning for Virtual Machine Rescheduling</strong> (ByteDance, 2022) — Formulated VM rescheduling as a reinforcement learning problem under strict 5-second latency constraints; developed a two-stage actor framework with sparse attention for VM–PM relational encoding; achieved 97.1% of optimal MIP solution quality while reducing inference time from 50.5 minutes to 1.1 seconds on industry-scale datasets (280–1176 PMs, 2000–4500 VMs).</li>
+</ul>
+
+
+
 <span style='color:darkred'>**Selected Publications** (* denotes equal contribution)</span>
 <ul style="font-size:16px;">
+
 <li>
+  <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, 
+  "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. 
+  Rotterdam, April 2025. 
+  <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · 
+  <a href="https://dl.acm.org/doi/abs/10.1145/3689031.3717476">Paper</a> · 
+  <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · 
+  <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · 
+  <a href="https://mp.weixin.qq.com/s/qrj8AKwrpEUWUQgi6yiC8Q" style="color:red;"><strong>Media (CN)</strong></a> · 
+  <strong>(44/381=11.54%)</strong>
+</li>
+
+ <li>
     <strong>[IoT-J'25]</strong>: <u>Xianzhong Ding*</u>, Zhiyu An*, Arya Rathee, Wan Du, "A Safe and Data-efficient Model-based Reinforcement Learning System for HVAC Control", <em>IEEE Internet of Things Journal</em>, 2025.  
     <a href="https://ieeexplore.ieee.org/document/10878986">Paper</a>
 </li>
-
-  <li>
-    <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Towards VM Rescheduling Optimization Through Deep Reinforcement Learning", Proceedings of the Twentieth European Conference on Computer Systems. Rotterdam, April 2025. <a href="https://dingxianzhong.github.io/VMR2Lhomepage/">Website</a> · <a href="https://dl.acm.org/doi/abs/10.1145/3689031.3717476">Paper</a> · <a href="https://drive.google.com/file/d/1AkuVoXV4J67Vld7s-_dkl6OoCZUj2406/view?usp=sharing">Poster</a> · <a href="https://github.com/zhykoties/VMR2L_eurosys">Code</a> · <a href="https://mp.weixin.qq.com/s/qrj8AKwrpEUWUQgi6yiC8Q">Media (CN)</a> · <strong>(44/381=11.54%)</strong>
-  </li>
+ 
   <li>
       <strong>[HICSS'25]</strong>: <u>Xianzhong Ding</u>, Wanshi Hong, Zhiyu An, Bin Wang, Wan Du, "Deepot: Parking Lot Identification Using Low-Resolution Satellite Imagery", The 58th Hawaii International Conference on System Sciences (HICSS). Hawaii, January 2025. 
       <a href="https://scholarspace.manoa.hawaii.edu/bitstreams/cfd855e4-3496-4594-a603-04a38effba7c/download">Paper</a> · 
@@ -122,8 +166,6 @@ redirect_from:
 </ul>
 
 
-
-
 <span style='color:darkred'>**Professional Activities**</span>
 <ul style='font-size:16px;'>
   <li><strong>Guest Editor</strong>: IoT'25.</li>
@@ -148,6 +190,7 @@ redirect_from:
   <li>Scholarship for outstanding academic performance, Shandong University, 2015 - 2016.</li>
 </ul>
 
+<p style="font-size:14px; text-align:center;">© 2025 Xianzhong Ding · Last updated: November 2025</p>
 
 
 ------
