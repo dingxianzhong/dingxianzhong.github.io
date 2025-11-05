@@ -52,14 +52,15 @@ Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 <span style='color:darkred'>**Selected Projects**</span>
 <ul style="font-size:16px;">
+  <li><strong><a href="https://airefinery.accenture.com/">AI Refinery Orchestration SDK</a></strong> (Accenture, 2025– ) — Multi-agent orchestration layer integrating analytics, research, and enterprise connectors with AWS Bedrock, Azure AI, and Google Vertex AI; implemented persistent client pattern and CI/CD automation for secure Kubernetes deployments.</li>
 
-  <li><strong>AI Refinery Orchestration SDK</strong> — Multi-agent orchestration layer integrating analytics, research, and enterprise connectors with AWS Bedrock, Azure AI, and Google Vertex AI; implemented persistent client pattern and CI/CD automation for secure Kubernetes deployments.</li>
+  <li><strong><a href="https://github.com/dingxianzhong/play-verl">play-verl</a></strong> (LBNL, 2024–2025) — VERL-based reinforcement learning benchmark (PPO/GRPO on Qwen models) with 8×H100 distributed training using pipeline and tensor parallelism; achieved 4.4× throughput and +7.3% reward gains; fully reproducible scripts and public W&B logs.</li>
 
-  <li><strong><a href="https://github.com/dingxianzhong/play-verl">Play-Verl</a></strong> — VERL-based reinforcement learning benchmark (PPO/GRPO on Qwen models) with 8×H100 distributed training using pipeline and tensor parallelism; achieved 4.4× throughput and +7.3% reward gains; fully reproducible scripts and public W&B logs.</li>
+  <li><strong><a href="https://dingxianzhong.github.io/VMR2Lhomepage/">VMR²L: Reinforcement Learning for Virtual Machine Rescheduling</a></strong> (ByteDance, 2022) — RL-based VM rescheduling under a strict 5-second latency budget; two-stage sparse-attention actor achieving 97.1% of optimal MIP quality and reducing inference from 50.5 min → 1.1 s on large-scale clusters (280–1176 PMs, 2000–4500 VMs).</li>
 
-
-  <li><strong>VMR²L: Reinforcement Learning for Virtual Machine Rescheduling</strong> — RL-based VM rescheduling under a strict 5-second latency budget; two-stage sparse-attention actor achieving 97.1\% of optimal MIP quality and 50.5 min → 1.1 s inference on large-scale clusters (280–1176 PMs, 2000–4500 VMs). <a href="https://mp.weixin.qq.com/s/qrj8AKwrpEUWUQgi6yiC8Q" style="color:red;"><strong>Media (CN)</strong></a></li>
+  <li><strong><a href="https://github.com/dingxianzhong/HPC-GPT">HPC-GPT</a></strong> (Argonne National Lab, 2023) — Developed the first open-source HPC-tuned LLM (based on LLaMA-13B) via automated instruction generation and supervised fine-tuning; integrated domain knowledge for data-race detection and HPC analysis; achieved 21% accuracy improvement over GPT-4 and released public datasets and model weights.</li>
 </ul>
+
 
 
 
