@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 <span style='font-size:16px;'>
-I am an <strong>Advanced AI Research Scientist at Accenture</strong> focusing on <strong>multi-agent systems, LLM orchestration, and scalable AI infrastructure</strong>. 
-At Accenture’s <strong>AI Refinery</strong>, I work on building the orchestration layer that integrates AI agents and cloud AI platforms 
-(<strong>AWS Bedrock</strong>, <strong>Azure AI</strong>, <strong>Google Vertex AI</strong>) through a unified Python SDK for enterprise-scale deployment.
-<br><br>
-Previously, as a <strong>Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL)</strong>, 
-I developed <a href="https://github.com/dingxianzhong/play-verl">play-verl</a> — a VERL-based reinforcement learning benchmark 
-evaluating PPO and GRPO algorithms on Qwen models with distributed training on multi-GPU systems.  
-I also worked on <strong>LLM fine-tuning for freight infrastructure</strong> and <strong>large-scale EV simulations</strong>.
-I hold a Ph.D. in Computer Science and Engineering from the <strong>University of California, Merced</strong>.
+I am an Advanced AI Research Scientist at Accenture focusing on multi-agent systems, LLM orchestration, and scalable AI infrastructure. At Accenture’s AI Refinery, I work on building the orchestration layer that integrates AI agents and cloud AI platforms through a unified Python SDK for enterprise-scale deployment.
+<br>
+Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL), I developed <a href="https://github.com/dingxianzhong/play-verl">play-verl</a> — a VERL-based reinforcement learning benchmark 
+evaluating PPO and GRPO algorithms on Qwen models with distributed training on multi-GPU systems. I also worked on LLM fine-tuning for freight infrastructure and large-scale EV simulations. I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM).
 </span>
 
 
@@ -190,11 +185,9 @@ I hold a Ph.D. in Computer Science and Engineering from the <strong>University o
   <li>Scholarship for outstanding academic performance, Shandong University, 2015 - 2016.</li>
 </ul>
 
-<p style="font-size:14px; text-align:center;">© 2025 Xianzhong Ding · Last updated: November 2025</p>
-
-
 ------
 
 <a href="https://mapmyvisitors.com/web/1bx69" title="Visit tracker">
   <img src="https://mapmyvisitors.com/map.png?d=p7BLPQ4r13QloJIxyU6898bltiKBW0bvmYTrhZyZE8Q&cl=ffffff" />
 </a>
+<p style="font-size:14px; text-align:center;">© 2025 Xianzhong Ding · Last updated: November 2025</p>
