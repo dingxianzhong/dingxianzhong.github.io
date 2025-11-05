@@ -52,11 +52,13 @@ Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 <span style='color:darkred'>**Selected Projects**</span>
 <ul style="font-size:16px;">
-  <li><strong><a href="https://github.com/dingxianzhong/play-verl">play-verl</a></strong> (LBNL, 2024–2025) — VERL-based reinforcement learning benchmark (PPO/GRPO on Qwen models) with 8×H100 distributed training using pipeline and tensor parallelism; achieved 4.4× throughput and +7.3% reward gains; fully reproducible scripts and public W&B logs.</li>
 
-  <li><strong>AI Refinery Orchestration SDK</strong> (Accenture, 2025– ) — Multi-agent orchestration layer integrating analytics, research, and enterprise connectors with AWS Bedrock, Azure AI, and Google Vertex AI; implemented persistent client pattern and CI/CD automation for secure Kubernetes deployments.</li>
+  <li><strong>AI Refinery Orchestration SDK</strong> — Multi-agent orchestration layer integrating analytics, research, and enterprise connectors with AWS Bedrock, Azure AI, and Google Vertex AI; implemented persistent client pattern and CI/CD automation for secure Kubernetes deployments.</li>
 
-  <li><strong>VMR²L: Reinforcement Learning for Virtual Machine Rescheduling</strong> (ByteDance, 2022) — Formulated VM rescheduling as a reinforcement learning problem under strict 5-second latency constraints; developed a two-stage actor framework with sparse attention for VM–PM relational encoding; achieved 97.1% of optimal MIP solution quality while reducing inference time from 50.5 minutes to 1.1 seconds on industry-scale datasets (280–1176 PMs, 2000–4500 VMs).</li>
+  <li><strong><a href="https://github.com/dingxianzhong/play-verl">Play-Verl</a></strong> — VERL-based reinforcement learning benchmark (PPO/GRPO on Qwen models) with 8×H100 distributed training using pipeline and tensor parallelism; achieved 4.4× throughput and +7.3% reward gains; fully reproducible scripts and public W&B logs.</li>
+
+
+  <li><strong>VMR²L: RL-based VM rescheduling under a strict 5-second latency budget; two-stage sparse-attention actor achieving 97.1\% of optimal MIP quality and 50.5 min → 1.1 s inference on large-scale clusters (280–1176 PMs, 2000–4500 VMs).</li>
 </ul>
 
 
