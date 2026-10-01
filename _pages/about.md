@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 <span style='font-size:16px;'>
-I am an Advanced AI Research Scientist at Accenture focusing on multi-agent systems, LLM orchestration, and scalable AI infrastructure. At Accenture’s AI Refinery, I work on building the orchestration layer that integrates AI agents and cloud AI platforms through a unified Python SDK for enterprise-scale deployment.
+I am an Advanced AI Research Scientist Manager at Accenture focusing on multi-agent systems, LLM orchestration, and scalable AI infrastructure. At Accenture’s AI Refinery, I work on building the orchestration layer that integrates AI agents and cloud AI platforms through a unified Python SDK for enterprise-scale deployment.
 <br>
-Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL), I developed play-verl — a VERL-based reinforcement learning benchmark evaluating PPO and GRPO algorithms on Qwen models with distributed training on multi-GPU systems. I also worked on LLM fine-tuning for freight infrastructure and large-scale EV simulations. I received my Ph.D. in Computer Science and Engineering from the University of California, Merced (UCM).
+Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL), I developed play-verl — a VERL-based reinforcement learning benchmark evaluating PPO and GRPO algorithms on Qwen models with distributed training on multi-GPU systems. I also worked on LLM fine-tuning for freight infrastructure and large-scale EV simulations. I received my Ph.D. in Electrical Engineering and Computer Science from the University of California, Merced (UCM).
 </span>
 
 
@@ -115,11 +115,11 @@ Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laborator
     <a href="https://dl.acm.org/doi/10.1145/3656043">Paper</a> · <a href="https://drive.google.com/file/d/1b40-E62fvCew_wq65qzvuKn5pIqavLJR/view?usp=sharing">Code</a>
   </li>
   <li>
-    <strong>[MLSys'23]</strong>: <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "Reinforcement Learning for Virtual Machines Rescheduling in Cloud Data Centers", Workshop on ML for Systems at NeurIPS. New Orleans, December 2023. 
+    <strong>[MLSys'23]</strong>: <u>Xianzhong Ding</u>, Yunkai Zhang, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, "VMR2L: Virtual Machines Rescheduling Using Reinforcement Learning in Data Centers", Workshop on ML for Systems at NeurIPS. New Orleans, December 2023. 
     <a href="https://mlforsystems.org/assets/papers/neurips2023/paper37.pdf">Paper</a> · 
     <a href="https://openreview.net/forum?id=TMvtla5bOP">OpenReview</a> · 
     <a href="https://neurips.cc/virtual/2023/84261">Video</a> · 
-    <a href="https://github.com/bytedance/DRL-based-VM-Rescheduling">Code</a> · <span style="color:red;"><strong>Spotlight Presentation</strong></span>
+    <a href="https://github.com/bytedance/DRL-based-VM-Rescheduling">Code</a> · <span style="color:red;"><strong>Oral Presentation</strong></span>
   </li>
   <li>
     <strong>[SC-W'23]</strong>: <u>Xianzhong Ding</u>, Le Chen, Murali Emani, Chunhua Liao, Pei-Hung Lin, Tristan Vanderbruggen, Zhen Xie, Alberto Cerpa, Wan Du, "HPC-GPT: Integrating Large Language Model for High-Performance Computing", Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis. 2023. 
@@ -135,7 +135,7 @@ Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laborator
     <a href="https://ryeii.github.io/assets/clue_slides.pdf">Slides (30 mins)</a> · <span style="color:red;"><strong>Best Paper Runner-Up Award</strong></span>
   </li>
   <li>
-    <strong>[e-Energy'23]</strong>: Hamid Rajabi, Zhizhang Hu, <u>Xianzhong Ding</u>, Shijia Pan, Wan Du, Alberto Cerpa, "MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings", ACM International Conference on Future Energy Systems. 2022. 
+    <strong>[e-Energy'22]</strong>: Hamid Rajabi, Zhizhang Hu, <u>Xianzhong Ding</u>, Shijia Pan, Wan Du, Alberto Cerpa, "MODES: Multi-sensor Occupancy Data-driven Estimation System for Smart Buildings", ACM International Conference on Future Energy Systems. 2022. 
     <a href="https://dl.acm.org/doi/abs/10.1145/3538637.3538852">Paper</a>
   </li>
   <li>
@@ -192,4 +192,4 @@ Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 <a href="https://mapmyvisitors.com/web/1bx69" title="Visit tracker">
   <img src="https://mapmyvisitors.com/map.png?d=p7BLPQ4r13QloJIxyU6898bltiKBW0bvmYTrhZyZE8Q&cl=ffffff" />
 </a>
-<p style="font-size:14px; text-align:center;">© 2025 Xianzhong Ding · Last updated: November 2025</p>
+<p style="font-size:14px; text-align:center;">© 2026 Xianzhong Ding · Last updated: October 2026</p>
