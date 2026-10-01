@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style='font-size:16px;'>
-I am an Advanced AI Research Scientist Manager at Accenture focusing on multi-agent systems, LLM orchestration, and scalable AI infrastructure. At Accenture’s AI Refinery, I work on building the orchestration layer that integrates AI agents and cloud AI platforms through a unified Python SDK for enterprise-scale deployment.
+I am an Advanced AI Research Scientist Manager at Accenture focusing on the reliability of AI agents, multi-agent systems, LLM orchestration, and scalable AI infrastructure. I lead <a href="https://accenture.github.io/ContextEcho/">ContextEcho</a>, a benchmark for measuring persona drift of AI coding agents over long tool-using sessions (57 real-world sessions, 23 models from 10 organizations), and at Accenture’s AI Refinery I work on the orchestration layer that integrates AI agents and cloud AI platforms through a unified Python SDK for enterprise-scale deployment.
 <br>
 Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laboratory (LBNL), I developed play-verl — a VERL-based reinforcement learning benchmark evaluating PPO and GRPO algorithms on Qwen models with distributed training on multi-GPU systems. I also worked on LLM fine-tuning for freight infrastructure and large-scale EV simulations. I received my Ph.D. in Electrical Engineering and Computer Science from the University of California, Merced (UCM).
 </span>
@@ -52,6 +52,11 @@ Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 <span style='color:darkred'>**Selected Projects**</span>
 <ul style="font-size:16px;">
+  <li><strong><a href="https://accenture.github.io/ContextEcho/">ContextEcho: A Benchmark for Persona Drift in Long Agentic-Coding Sessions</a></strong> — Benchmark and open corpus measuring whether frontier AI coding agents keep their trained Assistant persona over long tool-using sessions: 57 consented real-world sessions, 23 models from 10 organizations, 41,921 per-cell evaluations; shows that drift is common across model families and that a single ~110-token Assistant-register anchor restores the trained behavior without retraining. 
+  <a href="https://arxiv.org/abs/2605.24279">Paper (arXiv)</a> · 
+  <a href="https://github.com/Accenture/ContextEcho">Code</a> · 
+  <a href="https://huggingface.co/datasets/contextecho2026/persona-drift-contextecho">Dataset</a></li>
+
   <li><strong><a href="https://airefinery.accenture.com/">AI Refinery Orchestration SDK</a></strong> — Multi-agent orchestration layer integrating analytics, research, and enterprise connectors with AWS Bedrock, Azure AI, and Google Vertex AI; implemented persistent client pattern and CI/CD automation for secure Kubernetes deployments.</li>
 
   <li><strong><a href="https://github.com/dingxianzhong/Play-Verl">Play-Verl</a></strong> — VERL-based reinforcement learning benchmark (PPO/GRPO on Qwen models) with 8×H100 distributed training using pipeline and tensor parallelism; achieved 4.4× throughput and +7.3% reward gains; fully reproducible scripts and public W&B logs.</li>
@@ -66,6 +71,15 @@ Previously, as a Postdoctoral Researcher at Lawrence Berkeley National Laborator
 
 <span style='color:darkred'>**Selected Publications** (* denotes equal contribution)</span>
 <ul style="font-size:16px;">
+
+<li>
+  <strong>[arXiv'26]</strong>: <u>Xianzhong Ding</u>, Yangyang Yu, Changwei Liu, Bill Zhao, 
+  "ContextEcho: A Benchmark for Persona Drift in Long Agentic-Coding Sessions", arXiv:2605.24279, 2026. Under review. 
+  <a href="https://accenture.github.io/ContextEcho/">Website</a> · 
+  <a href="https://arxiv.org/abs/2605.24279">Paper</a> · 
+  <a href="https://github.com/Accenture/ContextEcho">Code</a> · 
+  <a href="https://huggingface.co/datasets/contextecho2026/persona-drift-contextecho">Dataset</a>
+</li>
 
 <li>
   <strong>[EuroSys'25]</strong>: <u>Xianzhong Ding*</u>, Yunkai Zhang*, Binbin Chen, Donghao Ying, Tieying Zhang, Jianjun Chen, Lei Zhang, Alberto Cerpa, Wan Du, 
